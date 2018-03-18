@@ -41,47 +41,7 @@
 		<!-- Header -->
 		<header>
 
-			<!-- Nav -->
-			<nav id="nav" class="navbar">
-				<div class="container">
-
-					<div class="navbar-header">
-						<!-- Logo -->
-						<div class="navbar-brand">
-							<a href="index.html">
-								<img class="logo" src="img/logo.png" alt="logo">
-							</a>
-						</div>
-						<!-- /Logo -->
-
-						<!-- Collapse nav button -->
-						<div class="nav-collapse">
-							<span></span>
-						</div>
-						<!-- /Collapse nav button -->
-					</div>
-
-					<!--  Main navigation  -->
-					<ul class="main-nav nav navbar-nav navbar-right">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li class="has-dropdown"><a href="#blog">Services</a>
-							<ul class="dropdown">
-								<li><a href="eng_services.html">Engineering Services</a></li>
-								<li><a href="man_service.html">Management Consultancy</a></li>
-							</ul>
-						</li>
-						
-						<li><a href="news.html">News</a></li>
-						<li><a href="career.html">Career</a></li>
-						
-						<li><a href="contact.html">Contact</a></li>
-					</ul>
-					<!-- /Main navigation -->
-
-				</div>
-			</nav>
-			<!-- /Nav -->
+			<?php include 'nav.php';?>
 
 			<!-- header wrapper -->
 			<div class="bg-grey">
@@ -217,78 +177,7 @@ The agile transformation defines an act of transforming an organization’s form
 </div>
 		
 
-		<!-- Footer -->
-		<footer id="footer" class="sm-padding bg-dark" >
-
-			<!-- Container -->
-			<div class="container">
-
-				<!-- Row -->
-				<div class="row">
-
-					<div class="col-md-5">
-
-
-						<p>
-
-							Address: <br>
-							HEADQUARTERS<br>
-							Gateway Place North, Suite 102<br>
-							13751 Lake City Way NE<br>
-							Seattle, Washington 98125<br>
-
-							Phone: (206) 501-4496<br>
-							E-mail: s.ikbal@optimapm.com</p>
-
-						</div>
-
-						<div class="col-md-5">
-
-							
-							<p>
-
-								Address: <br>
-								ASIA BRANCH OFFICE<br>
-								House#41, Road#35/A<br>
-								Suite 05, Gulshan-2<br>
-								Dhaka-1212, Bangladesh<br>
-
-								Phone: +880-173-049-5516<br>
-								E-mail: a.ikbal@optimapm.com</p>
-
-							</div>
-
-							<div class="col-md-2">
-
-								<button class="main-btn">Subscribe</button>
-							</div>
-						</div>
-						<!-- /Row -->
-
-
-						<!-- Row -->
-						<div class="row">
-
-							<div class="col-md-12">
-
-
-
-								<!-- footer copyright -->
-								<div class="footer-copyright"><br><br>
-									<p>Copyright © 2018. All Rights Reserved. </p>
-								</div>
-								<!-- /footer copyright -->
-
-							</div>
-
-						</div>
-						<!-- /Row -->
-
-					</div>
-					<!-- /Container -->
-
-				</footer>
-				<!-- /Footer -->
+		<?php include 'footer.php';?>
 
 				<!-- Back to top -->
 				<div id="back-to-top"></div>
