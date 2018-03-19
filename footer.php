@@ -7,7 +7,7 @@
 <!-- Row -->
 					<div class="row">
 
-						<div class="col-md-5">
+						<div class="col-md-4">
 
 							
 							<p>
@@ -22,7 +22,7 @@ E-mail: s.ikbal@optimapm.com</p>
 
 						</div>
 
-						<div class="col-md-5">
+						<div class="col-md-4">
 
 							
 <p>
@@ -37,12 +37,14 @@ E-mail: a.ikbal@optimapm.com</p>
 
 						</div>
 
-<div class="col-md-2">
+<div class="col-md-4">
 	
 	<button class="main-btn">Subscribe</button>
 	<br>
 
-		<button class="main-btn">Contact Us</button>
+		<a href="contact.php" class="main-btn">Contact Us</a>
+
+
 </div>
 					</div>
 					<!-- /Row -->
