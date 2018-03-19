@@ -65,7 +65,7 @@
 										<p style="text-align: center; color: white; margin-right: 20vw;margin-left: 20vw;font-size: large;">Optima provides environmental consulting, design engineering and construction management services for infrastructure projects throughout the world.
 										</p>
 									
-										<button class="main-btn">Learn more</button>
+										<a href="eng_services.php" class="main-btn">Learn more</a>
 
 									</div>
 
@@ -86,7 +86,9 @@
 											<p style="text-align: center; color: white; margin-right: 20vw;margin-left: 20vw; font-size: large;">Optima provides management consulting for organizations that want to reach a higher level in their industry and achieve optimum performance. We help our clients to make significant and lasting improvement to their businesses so they can compete locally and globally.
 											</p>
 										
-											<button class="main-btn">Learn more</button>
+											
+
+											<a href="man_service.php" class="main-btn">Learn more</a>
 
 										</div>
 
@@ -170,7 +172,8 @@
 							<p style="text-align: center; color: white; font-size: large;">Optima specializes in engineering and management consulting for businesses and organizations that want to achieve optimum results and reach a higher level in their industry. We help our clients make significant and lasting improvements to realize their most important goals. We equip organizations with tools and strategies that enable them to compete locally and globally. We are unequally positioned to provide this service with a resource pool of practice leaders and specialist consultants from around the world who are best in their field.</p>
 <div align="center">
 	
-<button class="main-btn">Learn more</button>
+
+<a href="about.php" class="main-btn">Learn more</a>
 </div>
 							
 
