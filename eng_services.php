@@ -99,10 +99,11 @@
 
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
+						<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+						
 						<p>Construction Management</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="eng_services_constructionmanagement.php">Read more</a>
 					</div>
 
 
@@ -110,10 +111,10 @@
 				<div class="col-md-4">
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
+						<img class="img-responsive" src="./img/design.jpg" alt="">
 						<p>Design Engineering</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="eng_services_designengineering.php">Read more</a>
 					</div>
 
 
@@ -121,10 +122,10 @@
 				<div class="col-md-4">
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
+						<img class="img-responsive" src="./img/3.jpg" alt="">
 						<p>Environmental Planning</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="eng_services_environmentalplanning.php">Read more</a>
 					</div>
 
 
@@ -136,20 +137,20 @@
 				<div class="col-md-2"></div>
 				<div class="col-md-4">
 					<div class="about">
-						<i class="fa fa-magic"></i>
+						<img class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
 						<p>Project Control Engineering</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="eng_services -projectcontrolengineering.php">Read more</a>
 					</div>
 
 				</div>
 				<div class="col-md-4">
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
+					<img class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
 						<p>Project Management</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="eng_services -projectmanagement.php">Read more</a>
 					</div>
 
 

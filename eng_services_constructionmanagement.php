@@ -67,11 +67,38 @@
 				<div class="col-md-10">
 
 					<div class="row abc" >
-						<div class="col-md-6">
+
+<div class="col-md-2"></div>
+						<div class="col-md-8">
+
+					
+									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+
+
+
+							
+						</div>
+
+					</div>
+<div class="row abc" >
+
+
+						<div class="col-md-12">
 
 
 							<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
-							<p>Optima provides services during the design phase in the form of constructability reviews, coordination, and scheduling, and also during the construction phase in the form of construction management, project control and inspections. Optima has a history of identifying and resolving potential difficulties during the design phase and providing quick and effective solutions during the construction phase when changes in the field arise. We also serve as the owner’s representative out in the field. Our services include:</p>
+							<p><br><br>Optima provides services during the design phase in the form of constructability reviews, coordination, and scheduling, and also during the construction phase in the form of construction management, project control and inspections. Optima has a history of identifying and resolving potential difficulties during the design phase and providing quick and effective solutions during the construction phase when changes in the field arise. We also serve as the owner’s representative out in the field. Our services include:</p>
+
+
+
+
+						</div>
+
+					</div>
+<div class="row abc" >
+<div class="col-md-2"></div>
+
+						<div class="col-md-8">
 							<ul>
 								<li>Providing on-site inspection of construction activities providing daily reports</li>
 								<li>Tracking/inspecting all deliveries</li>
@@ -87,20 +114,7 @@
 
 
 						</div>
-						<div class="col-md-6">
-
-							<div class="team" data-toggle="modal" data-target="#exampleModal">
-								<div class="team-img">
-									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
-
-								</div>
-
-
-							</div>
-
-
-							
-						</div>
+						
 					</div>
 
 

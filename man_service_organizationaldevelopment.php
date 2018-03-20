@@ -76,7 +76,7 @@
 
 					<div class="row abc" >
 
-						<div class="col-md-6">
+						<div class="col-md-12">
 
 							<div class="team" data-toggle="modal" data-target="#exampleModal">
 								<div class="team-img">
@@ -90,8 +90,11 @@
 
 							
 						</div>
+</div>
+<div class="row abc" >
 
-						<div class="col-md-6">
+
+						<div class="col-md-12">
 
 <p>Organizational Development (OD) is necessary when an organization recognizes that a problem exists which affects the mission or health of the organization and change is desired. OD can also be undertaken when leadership has a vision of a better way and wants to improve the organization. An organization does not always have to be in trouble to implement organization development activities.
 

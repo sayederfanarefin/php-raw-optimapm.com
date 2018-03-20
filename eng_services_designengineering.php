@@ -33,136 +33,154 @@
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-	</head>
+	<![endif]-->
+</head>
 
-	<body>
+<body>
 
-		<!-- Header -->
-		<header>
+	<!-- Header -->
+	<header>
 
-			<?php include 'nav.php';?>
+		<?php include 'nav.php';?>
 
-			<!-- header wrapper -->
-			<div class="bg-grey">
-				<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+		<!-- header wrapper -->
+		<div class="bg-grey">
+			<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
 
 
 
-					<div class="section-header text-center" >
-						<h2 class="title" style="padding-top: 10vh;">Design Engineering</h2>
-					</div>
-
+				<div class="section-header text-center" >
+					<h2 class="title" style="padding-top: 10vh;">Design Engineering</h2>
 				</div>
+
 			</div>
-			</header>
-			<!-- /header wrapper -->
+		</div>
+	</header>
+	<!-- /header wrapper -->
 
 
 
 
-<!-- right -->
+	<!-- right -->
 
-<div class="row" style="padding-top: 10vh;">
-				<div class="col-md-1"></div>
-
-
+	<div class="row" style="padding-top: 10vh;">
+		<div class="col-md-1"></div>
 
 
-				<div class="col-md-10">
 
 
-					<div class="row abc" >
-
-						<div class="col-md-6">
-
-							<div class="team" data-toggle="modal" data-target="#exampleModal">
-								<div class="team-img">
-									<img class="img-responsive" src="./img/design.jpg" alt="">
-
-								</div>
+		<div class="col-md-10">
 
 
-							</div>
+			<div class="row abc" >
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
 
-
-							
-						</div>
-
-						<div class="col-md-6">
-
-<p>Optima has highly experienced civil engineers to provide planning, design, and permitting services for municipal and private development projects. We help our clients take projects from the initial stage to implementation. Optima has a history of identifying and resolving potential difficulties during the design phase and providing effective solutions to optimize project results. Our services in design and engineering include:</p>
-<ul>
-<li>Feasibility Studies</li>
-<li>Project Scope Preparation</li>
-<li>Engineering Evaluations</li>
-<li>Site planning and design</li>
-<li>Constructability and design review</li>
-<li>Contract Document Preparation</li>
-<li>Cost Estimating</li>
-<li>Schedule Preparation</li>
-<li>Permit Applications</li>
-</ul>
-
+					<div class="team" data-toggle="modal" data-target="#exampleModal">
+						<div class="team-img">
+							<img class="img-responsive" src="./img/design.jpg" alt="">
 
 						</div>
-						
+
+
 					</div>
-
 
 
 
 				</div>
 
+				<div class="row abc" >
+					<div class="col-md-12">
 
-				<div class="col-md-1"></div>
+						<p>Optima has highly experienced civil engineers to provide planning, design, and permitting services for municipal and private development projects. We help our clients take projects from the initial stage to implementation. Optima has a history of identifying and resolving potential difficulties during the design phase and providing effective solutions to optimize project results. Our services in design and engineering include:</p>
+
+
+					</div>
+
+				</div>
+
+				<div class="row abc" >
+
+
+					<div class="col-md-6">
+
+						<br>
+						<ul>
+							<li>Feasibility Studies</li>
+							<li>Project Scope Preparation</li>
+							<li>Engineering Evaluations</li>
+							<li>Site planning and design</li>
+							<li>Constructability and design review</li>
+							<li>Contract Document Preparation</li>
+							<li>Cost Estimating</li>
+							<li>Schedule Preparation</li>
+							<li>Permit Applications</li>
+						</ul>
+
+
+					</div>
+
+					<div class="col-md-5">
+								<img class="img-responsive" src="./img/design.jpg" alt="">
+
+					</div>
+
+				</div>
+<br><br>
+
+
+
 			</div>
 
-<!-- right end-->
+
+			<div class="col-md-1"></div>
+		</div>
+
+		<!-- right end-->
 
 
 
 
 		
 		<!-- /Header -->
-<div class="row">
-<br><br><br>
-</div>
+		<div class="row">
+			<br><br><br>
+		</div>
 		
 
 		<?php include 'footer.php';?>
-				<!-- Back to top -->
-				<div id="back-to-top"></div>
-				<!-- /Back to top -->
+		<!-- Back to top -->
+		<div id="back-to-top"></div>
+		<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+		<!-- Preloader -->
+		<div id="preloader">
+			<div class="preloader">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<!-- /Preloader -->
 
-				<!-- jQuery Plugins -->
-				<script type="text/javascript" src="js/jquery.min.js"></script>
-				<script type="text/javascript" src="js/bootstrap.min.js"></script>
-				<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-				<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
-				<script type="text/javascript" src="js/main.js"></script>
+		<!-- jQuery Plugins -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
 
-				<style type="text/css">
-
-
+		<style type="text/css">
 
 
-.abc li:before {
-  content: "•";
-  padding-right: 5px;
-  }
-  </style>
+
+
+		.abc li:before {
+			content: "•";
+			padding-right: 5px;
+		}
+	</style>
 </body>
 
 </html>
