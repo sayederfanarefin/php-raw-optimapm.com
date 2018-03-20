@@ -83,10 +83,10 @@
 
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
-						<p>Business Strategy</p>
+						<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+						<p><br>Business Strategy</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="man_service-businessstrategy.php">Read more</a>
 					</div>
 
 
@@ -94,10 +94,11 @@
 				<div class="col-md-4">
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
-						<p>Executive Training Program</p>
+						<img class="img-responsive" src="./img/design.jpg" alt="">
+
+						<p><br>Executive Training Program</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="man_service_executivetrainingprogram.php">Read more</a>
 					</div>
 
 
@@ -105,10 +106,10 @@
 				<div class="col-md-4">
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
-						<p>IT SOLUTIONS</p>
+						<img class="img-responsive" src="./img/3.jpg" alt="">
+						<p><br>IT SOLUTIONS</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="man_service_ITSOLUTIONS.php">Read more</a>
 					</div>
 
 
@@ -120,20 +121,20 @@
 				<div class="col-md-2"></div>
 				<div class="col-md-4">
 					<div class="about">
-						<i class="fa fa-magic"></i>
-						<p>Organizational Development</p>
+						<img class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
+						<p><br>Organizational Development</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="man_service_organizationaldevelopment.php">Read more</a>
 					</div>
 
 				</div>
 				<div class="col-md-4">
 
 					<div class="about">
-						<i class="fa fa-magic"></i>
-						<p>Project Management</p>
+						<img class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
+						<p><br>Risk Management</p>
 						
-						<a class="btn btn-info" role="button" href="#">Read more</a>
+						<a class="btn btn-info" role="button" href="man_service_riskmanagement.php">Read more</a>
 					</div>
 
 
@@ -142,7 +143,7 @@
 
 
 
-				<br><br><br>
+				<p><br><br><br></p>
 			</div></div></div>
 
 
