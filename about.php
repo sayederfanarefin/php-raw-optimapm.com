@@ -58,17 +58,17 @@
 				<div class="row">
 
 
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="team" data-toggle="modal" data-target="#exampleModal">
 							<div class="team-img">
 								<img class="img-responsive" src="./img/sobuzikbal.jpg" alt="">
 
 							</div>
 							<div class="team-content">
-								<h3>Shobuz Ikbal</h3>
-								<span>President/ Practice Leader – Engineering
+								<h5>Shobuz Ikbal</h5>
+								<h6>President/ Practice Leader – Engineering
 									<br>BSc MSc PE PMP
-								</span>
+								</h6>
 
 							</div>
 
@@ -119,17 +119,17 @@
 					</div>
 					<!--- aleya ikbal-->
 
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="team" data-toggle="modal" data-target="#exampleModal2">
 							<div class="team-img">
 								<img class="img-responsive" src="./img/aleya-Ikbal.jpg" alt="">
 
 							</div>
 							<div class="team-content">
-								<h3>Aleya Ikbal	</h3>
-								<span>Vice President/ Practice Leader – Business Transformation
+								<h5>Aleya Ikbal	</h5>
+								<h6>Vice President/ Practice Leader – Business Transformation
 									<br>BBA PMP CSM
-								</span>
+								</h6>
 
 							</div>
 
@@ -177,17 +177,17 @@
 					</div>
 
 
-					<div class="col-md-4">
+					<div class="col-md-3">
 						<div class="team" data-toggle="modal" data-target="#exampleModal3">
 							<div class="team-img">
 								<img class="img-responsive" src="./img/Picture_Chuck-232x300.jpg" alt="">
 
 							</div>
 							<div class="team-content">
-								<h3>Charles Lappenbusch</h3>
-								<span>Practice Leader – Project Control and Risk Management
+								<h5>Charles Lappenbusch</h5>
+								<h6>Practice Leader – Project Control and Risk Management
 									<br>MBA CCP EVP PSP
-								</span>
+								</h6>
 
 							</div>
 
@@ -239,30 +239,17 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-					<div class="row">
-
-
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal4">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/Dr-ErnestL.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Dr. Ernest L. Hughes</h3>
-									<span>Practice Leader – Innovation and Business Strategy
+									<h5>Dr. Ernest L. Hughes</h5>
+									<h6>Practice Leader – Innovation and Business Strategy
 										<br>Chief Innovation Officer, Hughes Global
-									</span>
+									</h6>
 
 								</div>
 
@@ -313,17 +300,34 @@
 						</div>
 						<!--- aleya ikbal-->
 
-						<div class="col-md-4">
+
+
+						</div>
+
+
+
+
+
+
+
+
+
+
+
+
+					<div class="row">
+
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal25">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/prof.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Gary Johnson</h3>
-									<span>Senior Electro-Mechanical Engineer
+									<h5>Gary Johnson</h5>
+									<h6>Senior Electro-Mechanical Engineer
 										<br>PE	
-									</span>
+									</h6>
 
 								</div>
 
@@ -371,19 +375,19 @@
 						</div>
 
 
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal31">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/MahamoudaSalouhou.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Dr. Mahamouda Salouhou</h3>
-									<span>Practice Leader – Executive Education
+									<h5>Dr. Mahamouda Salouhou</h5>
+									<h6>Practice Leader – Executive Education
 										<br>PhD University of Lille, France
 
 
-									</span>
+									</h6>
 
 								</div>
 
@@ -434,44 +438,18 @@
 
 
 
-					</div>
+					
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-					<div class="row">
-
-
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal41">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/sarah-beg.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Sarah Beg</h3>
-									<span>Practice Leader – Data Science</span>
+									<h5>Sarah Beg</h5>
+									<h6>Practice Leader – Data Science</h6>
 
 								</div>
 
@@ -521,17 +499,17 @@
 						</div>
 						<!--- aleya ikbal-->
 
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal251">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/shana-carmodi.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Shana Carmody</h3>
-									<span>Consultant – Information Technology
+									<h5>Shana Carmody</h5>
+									<h6>Consultant – Information Technology
 										<br>BA HIT ITIL	
-									</span>
+									</h6>
 
 								</div>
 
@@ -574,19 +552,36 @@
 							</div>
 
 						</div>
+</div>
 
 
-						<div class="col-md-4">
+
+
+
+
+
+
+
+
+
+
+					<div class="row">
+
+
+						<div class="col-md-1"></div>
+
+
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal31">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/PhilipD.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Philip D. Larson </h3>
-									<span>Consultant – Cost Management and Engineering
+									<h5>Philip D. Larson </h5>
+									<h6>Consultant – Cost Management and Engineering
 
-									</span>
+									</h6>
 
 								</div>
 
@@ -633,34 +628,15 @@
 						</div>
 
 
-
-					</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-					<div class="row">
-						<div class="col-md-2"></div>
-
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal411">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/ronbarnhart.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Ron Barnhart</h3>
-									<span>Consultant – Business Analysis</span>
+									<h5>Ron Barnhart</h5>
+									<h6>Consultant – Business Analysis</h6>
 
 								</div>
 
@@ -716,16 +692,16 @@
 						</div>
 						<!--- aleya ikbal-->
 
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="team" data-toggle="modal" data-target="#exampleModal2511">
 								<div class="team-img">
 									<img class="img-responsive" src="./img/Mukherjee.jpg" alt="">
 
 								</div>
 								<div class="team-content">
-									<h3>Mithun Mukherjee</h3>
-									<span>Consultant – Application Development
-									</span>
+									<h5>Mithun Mukherjee</h5>
+									<h6>Consultant – Application Development
+									</h6>
 
 								</div>
 
@@ -772,7 +748,7 @@
 						</div>
 
 
-						<div class="col-md-2">
+						<div class="col-md-3">
 							
 						</div>
 
