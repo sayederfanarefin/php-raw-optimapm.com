@@ -64,90 +64,90 @@
 
 				</div>
 			</div>
-			</header>
-			
-
-			<div class="section" style="padding-top: 50px;">
-
-		<!-- Container -->
-		<div class="container">
+		</header>
 
 
-			<div class="section-header text-center" >
-				<h3 class="title">Services</h3>
-			</div>
-			<!-- Row -->
-			<div class="row">
+		<div class="section" style="padding-top: 50px;">
 
-				<div class="col-md-4">
+			<!-- Container -->
+			<div class="container">
 
 
-					<div class="about">
-						<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
-						<p><br>Business Strategy</p>
-						
-						<a class="btn btn-info" role="button" href="man_service-businessstrategy.php">Read more</a>
-					</div>
-
-
+				<div class="section-header text-center" >
+					<h3 class="title">Services</h3>
 				</div>
-				<div class="col-md-4">
+				<!-- Row -->
+				<div class="row">
 
-					<div class="about">
-						<img class="img-responsive" src="./img/design.jpg" alt="">
+					<div class="col-md-4">
 
-						<p><br>Executive Training Program</p>
-						
-						<a class="btn btn-info" role="button" href="man_service_executivetrainingprogram.php">Read more</a>
+
+						<div class="about">
+							<img  id="xyz" class="img-responsive" src="./img/constructionmanagement.png" alt="">
+							<p><br>Business Strategy</p>
+
+							<a class="btn btn-info" role="button" href="man_service-businessstrategy.php">Read more</a>
+						</div>
+
+
 					</div>
+					<div class="col-md-4">
+
+						<div class="about">
+							<img  id="xyz" class="img-responsive" src="./img/design.jpg" alt="">
+
+							<p><br>Executive Training Program</p>
+
+							<a class="btn btn-info" role="button" href="man_service_executivetrainingprogram.php">Read more</a>
+						</div>
 
 
-				</div>
-				<div class="col-md-4">
-
-					<div class="about">
-						<img class="img-responsive" src="./img/3.jpg" alt="">
-						<p><br>IT SOLUTIONS</p>
-						
-						<a class="btn btn-info" role="button" href="man_service_ITSOLUTIONS.php">Read more</a>
 					</div>
+					<div class="col-md-4">
+
+						<div class="about">
+							<img  id="xyz" class="img-responsive" src="./img/3.jpg" alt="">
+							<p><br>IT SOLUTIONS</p>
+
+							<a class="btn btn-info" role="button" href="man_service_ITSOLUTIONS.php">Read more</a>
+						</div>
 
 
-				</div>
-
-			</div>
-			<div class="row">
-
-				<div class="col-md-2"></div>
-				<div class="col-md-4">
-					<div class="about">
-						<img class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
-						<p><br>Organizational Development</p>
-						
-						<a class="btn btn-info" role="button" href="man_service_organizationaldevelopment.php">Read more</a>
 					</div>
 
 				</div>
-				<div class="col-md-4">
+				<div class="row">
 
-					<div class="about">
-						<img class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
-						<p><br>Risk Management</p>
-						
-						<a class="btn btn-info" role="button" href="man_service_riskmanagement.php">Read more</a>
+					<div class="col-md-2"></div>
+					<div class="col-md-4">
+						<div class="about">
+							<img  id="xyz" class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
+							<p><br>Organizational Development</p>
+
+							<a class="btn btn-info" role="button" href="man_service_organizationaldevelopment.php">Read more</a>
+						</div>
+
 					</div>
+					<div class="col-md-4">
+
+						<div class="about">
+							<img  id="xyz" class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
+							<p><br>Risk Management</p>
+
+							<a class="btn btn-info" role="button" href="man_service_riskmanagement.php">Read more</a>
+						</div>
 
 
-				</div>
-				<div class="col-md-2"></div>
+					</div>
+					<div class="col-md-2"></div>
 
 
 
-				<p><br><br><br></p>
-			</div></div></div>
+					<p><br><br><br></p>
+				</div></div></div>
 
 
-		<?php include 'footer.php';?>
+				<?php include 'footer.php';?>
 
 				<!-- Back to top -->
 				<div id="back-to-top"></div>
@@ -173,14 +173,19 @@
 
 				<style type="text/css">
 
+				.abc li:before {
+					content: "•";
+					padding-right: 5px;
+				}
 
 
+				.xyz{
+					display:block;
+					height:150px;/*set an height */
+					line-height:150px;/* set the baseline at 100px from top*/
+					overflow:hidden;/* crops/cut off */
+				}
+				</style>
+			</body>
 
-.abc li:before {
-  content: "•";
-  padding-right: 5px;
-  }
-  </style>
-</body>
-
-</html>
+			</html>

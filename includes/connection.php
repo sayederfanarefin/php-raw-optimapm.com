@@ -1,3 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost","azure","password","newsbuzz" ) or die ("error" . mysqli_error($conn));
+$conn = mysqli_connect("localhost","","","newsbuzz" ) or die ("error" . mysqli_error($conn));
+
+//azure, password
 ?>

@@ -57,97 +57,177 @@
 
 				</div>
 			</div>
-			</header>
-			<!-- /header wrapper -->
+		</header>
+		<!-- /header wrapper -->
+
+
+
+
+		<div class="row" >
+
+
+			<p>&nbsp;</p><p>&nbsp;</p>
+			<div class="col-md-1"></div>
+
+
+
+
+			<div class="col-md-10">
+
+				<div class="row abc" >
+
+					<div class="col-md-5">
+						<img class="img-responsive" src="./img/management/Risk_Management/3.jpg" alt="">
+
+					</div>
+
+
+					<div class="col-md-6">
+
+						<p><br>Risk management is the way toward recognizing, surveying and controlling threats to an organization. These dangers, or risks, could come from a wide assortment of sources, financial uncertainty, legal liabilities, strategic management errors, accidents and natural disasters. Recently internet security threats and data-related risks, and the risk management strategies to alleviate them, have become a top priority.</p>
+
+
+					</div>
+
+				</div>
+
+				<div class="row abc" >
+
+					<div class="col-md-12">
+
+
+
+						<h5><br><br>All r<strong>isk management plans follow these </strong>steps that combine to make up the overall risk management process:</h5>
+						<ul>
+
+
+							<h5>Risk identification:</h5>The Company identifies and defines potential risks that may negatively influence a specific company process or project.
+
+
+							<br><br>
+							<h5>Risk analysis:</h5>Once specific types of risk are identified, the company then determines the odds of it occurring, as well as its consequences. The goal of the analysis is to further understand each specific instance of risk, and how it could influence the company&#8217;s projects and objectives.
+
+							<br><br>
+							<h5>Risk assessment and evaluation:</h5>The risk is then further evaluated after determining the risk&#8217;s overall likelihood of occurrence combined with its overall consequence.<em> </em>The company can then make decisions on whether the risk is acceptable and whether the company is willing to take it on based on its <a href="http://searchcompliance.techtarget.com/definition/risk-appetite">risk appetite</a>.<br>
+							<br>
+							<h5>Risk mitigation:</h5>During this step, companies assess their highest-ranked risks and develop a plan to alleviate them using specific risk controls. These plans include risk mitigation processes, risk prevention tactics and contingency plans in the event the risk comes to fruition.
+
+							<br>
+							<br>
+							<h5>Risk monitoring: </h5>Part of the mitigation plan includes following up on both the risks and the overall plan to continuously monitor and track new and existing risks. The overall risk management process should also be reviewed and updated accordingly.
+						</ul>
+
+
+						<p>&nbsp;</p>
+
+
+					</div></div>
+					<div class="row" >
+						<div class="col-md-1"></div>
+
+
+
+
+						<div class="col-md-10">
+							<img class="img-responsive" src="./img/management/Risk_Management/2.jpg" alt="">
+
+
+						</div></div>
+						<div class="row" >
+
+
+
+							<div class="col-md-12">
+<p>&nbsp;</p>
+								<h5>Risk management approaches</h5>
+
+								<p>After the company&#8217;s specific risks are identified and the risk management process has been implemented, there are several different strategies companies can take in regard to different types of risk:</p>
+
+</div>
+
+
+							<div class="col-md-6">
+
+
+
+								
+								<h5>Risk avoidance:</h5>While the complete elimination of all risk is rarely possible, a risk avoidance strategy is designed to deflect as many threats as possible in order to avoid the costly and disruptive consequences of a damaging event.
+								<h5>Risk reduction:</h5>Companies are sometimes able to reduce the amount of effect certain risks can have on company processes. This is achieved by adjusting certain aspects of an overall project plan or company process, or by reducing its scope.
+								
+
+
+
+							</div>
+
+
+
+							<div class="col-md-5">
+
+								<img class="img-responsive" src="./img/management/Risk_Management/1.png" alt="">
+
+							</div>
+
+						</div>
+
+
+
+
+
 
 
 
 
 <div class="row" >
-				<div class="col-md-1"></div>
+
+
+<p>&nbsp;</p><p>&nbsp;</p>
+
+<div class="col-md-5">
+
+								<img class="img-responsive" src="./img/management/Risk_Management/4.png" alt="">
+
+							</div>
+
+							<div class="col-md-6">
 
 
 
-
-				<div class="col-md-10">
-
-					<div class="row abc" >
-
-						<div class="col-md-5">
-									<img class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
 								
-						</div>
+								<h5>Risk sharing:</h5>Sometimes, the consequences of a risk is shared, or distributed among several of the project&#8217;s participants or business departments. The risk could also be shared with a third party, such as a <a href="http://whatis.techtarget.com/definition/vendor">vendor</a> or business partner.
 
-
-						<div class="col-md-6">
-
-							<p><br>Risk management is the way toward recognizing, surveying and controlling threats to an organization. These dangers, or risks, could come from a wide assortment of sources, financial uncertainty, legal liabilities, strategic management errors, accidents and natural disasters. Recently internet security threats and data-related risks, and the risk management strategies to alleviate them, have become a top priority.</p>
-
-
-</div>
-						
-					</div>
-
-						<div class="row abc" >
-
-						<div class="col-md-12">
+								<h5>Risk retaining:</h5> Sometimes, companies decide a risk is worth it from a business standpoint, and decide to retain the risk and deal with any potential fallout. Companies will often retain a certain level of risk a project&#8217;s anticipated profit is greater than the costs of its potential risk</p>
 
 
 
-<h5><br><br>All r<strong>isk management plans follow these </strong>steps that combine to make up the overall risk management process:</h5>
-<ul>
 
-
-<h5>Risk identification:</h5>The Company identifies and defines potential risks that may negatively influence a specific company process or project.
-
-
-<br><br>
-<h5>Risk analysis:</h5>Once specific types of risk are identified, the company then determines the odds of it occurring, as well as its consequences. The goal of the analysis is to further understand each specific instance of risk, and how it could influence the company&#8217;s projects and objectives.
-
-<br><br>
-<h5>Risk assessment and evaluation:</h5>The risk is then further evaluated after determining the risk&#8217;s overall likelihood of occurrence combined with its overall consequence.<em> </em>The company can then make decisions on whether the risk is acceptable and whether the company is willing to take it on based on its <a href="http://searchcompliance.techtarget.com/definition/risk-appetite">risk appetite</a>.<br>
-<br>
-<h5>Risk mitigation:</h5>During this step, companies assess their highest-ranked risks and develop a plan to alleviate them using specific risk controls. These plans include risk mitigation processes, risk prevention tactics and contingency plans in the event the risk comes to fruition.
-
-<br>
-<br>
-<h5>Risk monitoring: </h5>Part of the mitigation plan includes following up on both the risks and the overall plan to continuously monitor and track new and existing risks. The overall risk management process should also be reviewed and updated accordingly.
-</ul>
-<p>&nbsp;</p>
-<p><strong><u>Risk management approaches</u></strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>After the company&#8217;s specific risks are identified and the risk management process has been implemented, there are several different strategies companies can take in regard to different types of risk:</p>
-<ul>
-<li><a href="http://searchcompliance.techtarget.com/definition/risk-avoidance"><strong>Risk avoidance</strong></a><strong><em><u>:</u></em></strong>While the complete elimination of all risk is rarely possible, a risk avoidance strategy is designed to deflect as many threats as possible in order to avoid the costly and disruptive consequences of a damaging event.</li>
-<li><strong><u>Risk reduction</u></strong><strong><u>:</u></strong> Companies are sometimes able to reduce the amount of effect certain risks can have on company processes. This is achieved by adjusting certain aspects of an overall project plan or company process, or by reducing its scope.</li>
-<li><strong><u>Risk sharing:</u></strong>Sometimes, the consequences of a risk is shared, or distributed among several of the project&#8217;s participants or business departments. The risk could also be shared with a third party, such as a <a href="http://whatis.techtarget.com/definition/vendor">vendor</a> or business partner.</li>
-</ul>
-<p>Risk retaining: Sometimes, companies decide a risk is worth it from a business standpoint, and decide to retain the risk and deal with any potential fallout. Companies will often retain a certain level of risk a project&#8217;s anticipated profit is greater than the costs of its potential risk</p>
+							</div>
 
 
 
+							
 
 						</div>
-						
+
+
+
+
+
+
+
+
 					</div>
 
 
-
-
+					<div class="col-md-1"></div>
 				</div>
 
 
-				<div class="col-md-1"></div>
-			</div>
 
-
-		
-		<!-- /Header -->
-<div class="row">
-<br><br><br>
-</div>
-<?php include 'footer.php';?>
+				<!-- /Header -->
+				<div class="row">
+					<br><br><br>
+				</div>
+				<?php include 'footer.php';?>
 
 				<!-- Back to top -->
 				<div id="back-to-top"></div>
@@ -176,11 +256,11 @@
 
 
 
-.abc li:before {
-  content: "•";
-  padding-right: 5px;
-  }
-  </style>
-</body>
+				.abc li:before {
+					content: "•";
+					padding-right: 5px;
+				}
+				</style>
+			</body>
 
-</html>
+			</html>
