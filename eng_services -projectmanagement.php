@@ -58,105 +58,111 @@
 
 				</div>
 			</div>
-			</header>
-			<!-- /header wrapper -->
+		</header>
+		<!-- /header wrapper -->
 
 
-<div class="row" style="padding-top: 10vh;">
-				<div class="col-md-1"></div>
-
-
-
-
-				<div class="col-md-10">
-
-					<div class="row abc" >
-						<div class="col-md-6">
-
-
-							<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
-							<p>The successful project management service offered by Optima concentrates on the three prime issues: time, cost, and quality, ensuring a coherent structure for managing all three. The principles behind the successful delivery of on-time projects embrace the following fundamental aspects:</p>
-<ul>
-<li>Providing expert advice from day one</li>
-<li>Setting clear objectives and a defined scope</li>
-<li>Supplying crucial resources where and when required</li>
-<li>Using a structured process for managing risk</li>
-<li>The tight control of budgets</li>
-<li>Management of communications and supply chain relationships</li>
-<li>Deliver the project completed, on time, and on budget, as originally intended</li>
-<li>Performance measurement through key performance indicators</li>
-</ul>
+		<div class="row" style="padding-top: 10vh;">
+			<div class="col-md-1"></div>
 
 
 
-						</div>
-						<div class="col-md-6">
 
-							<div class="team" data-toggle="modal" data-target="#exampleModal">
-								<div class="team-img">
-									<img class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
+			<div class="col-md-10">
 
-								</div>
+				<div class="row abc" >
 
-
-							</div>
-
-
-							
-						</div>
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+						<img class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
 					</div>
 
+				</div>
+				<div class="row abc" >
+					<div class="col-md-12">
 
 
+						<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
+						<p><br><br>The successful project management service offered by Optima concentrates on the three prime issues: time, cost, and quality, ensuring a coherent structure for managing all three. The principles behind the successful delivery of on-time projects embrace the following fundamental aspects:</p>
+
+
+
+					</div>
+
+				</div>
+				<div class="row abc" >
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+
+
+						<ul>
+							<li>Providing expert advice from day one</li>
+							<li>Setting clear objectives and a defined scope</li>
+							<li>Supplying crucial resources where and when required</li>
+							<li>Using a structured process for managing risk</li>
+							<li>The tight control of budgets</li>
+							<li>Management of communications and supply chain relationships</li>
+							<li>Deliver the project completed, on time, and on budget, as originally intended</li>
+							<li>Performance measurement through key performance indicators</li>
+						</ul>
+
+<br><br>
+
+					</div>
 
 				</div>
 
 
-				<div class="col-md-1"></div>
+
+
 			</div>
+
+
+			<div class="col-md-1"></div>
+		</div>
 
 
 		
 		<!-- /Header -->
-<div class="row">
-<br><br><br>
-</div>
+		<div class="row">
+			<br><br><br>
+		</div>
 		
 
-	<?php include 'footer.php';?>
+		<?php include 'footer.php';?>
 
-				<!-- Back to top -->
-				<div id="back-to-top"></div>
-				<!-- /Back to top -->
+		<!-- Back to top -->
+		<div id="back-to-top"></div>
+		<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+		<!-- Preloader -->
+		<div id="preloader">
+			<div class="preloader">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<!-- /Preloader -->
 
-				<!-- jQuery Plugins -->
-				<script type="text/javascript" src="js/jquery.min.js"></script>
-				<script type="text/javascript" src="js/bootstrap.min.js"></script>
-				<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-				<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
-				<script type="text/javascript" src="js/main.js"></script>
+		<!-- jQuery Plugins -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
 
-				<style type="text/css">
-
-
+		<style type="text/css">
 
 
-.abc li:before {
-  content: "•";
-  padding-right: 5px;
-  }
-  </style>
-</body>
 
-</html>
+
+		.abc li:before {
+			content: "•";
+			padding-right: 5px;
+		}
+		</style>
+	</body>
+
+	</html>
