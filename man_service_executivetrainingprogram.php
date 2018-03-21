@@ -75,7 +75,7 @@
 
 					<div class="team" data-toggle="modal" data-target="#exampleModal">
 						<div class="team-img">
-							<img class="img-responsive" src="./img/design.jpg" alt="">
+							<img class="img-responsive" src="./img/management/Executive_Training/2.jpg" alt="">
 
 						</div>
 
@@ -138,7 +138,7 @@
 					</ul>
 				</div>
 				<div class="col-md-5">
-<img class="img-responsive" src="./img/design.jpg" alt="">
+<img class="img-responsive" src="./img/management/Executive_Training/3.jpg"  alt="">
 
 					
 				</div>

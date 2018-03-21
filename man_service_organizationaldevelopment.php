@@ -80,7 +80,7 @@
 
 							<div class="team" data-toggle="modal" data-target="#exampleModal">
 								<div class="team-img">
-									<img class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
+									<img class="img-responsive" src="./img/management/Organizational_Development/3.jpg" alt="">
 
 								</div>
 
