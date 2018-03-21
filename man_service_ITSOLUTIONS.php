@@ -103,14 +103,13 @@
 
 				<div class="col-md-6">
 
-
-					<ol>
-						<li>Initiating:</li>
-					</ol>
+						<h5 style="padding-top: 10px">Initiating</h5>
+					
 					<p>In the initiating processes determine the nature and scope of the project.If this stage is not performed well, it is unlikely that the project will be successful in meeting the business’ needs.</p>
-					<ol start="2">
-						<li>Planning:</li>
-					</ol>
+
+
+						<h5 style="padding-top: 10px">Planning</h5>
+
 					<p>After the initiation stage, the project is planned to an appropriate level of detail.The main purpose is to plan time, cost and resources adequately to estimate the work needed and to effectively manage risk during project execution. As with the Initiation process group, a failure to adequately plan greatly reduces the project&#8217;s chances of successfully accomplishing its goals.</p>
 					<p>&nbsp;</p>
 					<p>&nbsp;</p>
@@ -140,10 +139,8 @@
 				<div class="col-md-6">
 
 					
+					<h5 style="padding-top: 10px">Executing</h5>
 					
-					<ol start="3">
-						<li>Executing:</li>
-					</ol>
 					<p>While executing we must know what the planned terms that need to be executed are. The execution/implementation phase ensures that the project management plan&#8217;s deliverables are executed accordingly. This phase involves proper allocation, co-ordination and management of human resources and any other resources such as material and budgets. The output of this phase is the project deliverables.</p>
 					
 
@@ -159,13 +156,14 @@
 
 				<div class="col-md-6">
 
-					<ol start="4">
-						<li>Monitoring and Controlling:</li>
-					</ol>
+<h5 style="padding-top: 10px">Monitoring and Controlling</h5>
+
+					
 					<p>Monitoring and controlling consists of those processes performed to observe project execution so that potential problems can be identified in a timely manner and corrective action can be taken, when necessary, to control the execution of the project. The key benefit is that project performance is observed and measured regularly to identify variances from the project management plan.</p>
-					<ol start="5">
-						<li>Closing:</li>
-					</ol>
+
+
+					<h5 style="padding-top: 10px">Closing</h5>
+					
 					<p>Closing includes the formal acceptance of the project and the ending thereof. Administrative activities include the archiving of the files and documenting lessons learned.</p>
 					<p>&nbsp;</p>
 					<p><strong> </strong></p>
@@ -226,7 +224,7 @@
 
 
 					<div class="row abc" >
-						
+
 						<h3 class="text-center"> <br /><br />Data Analytics</h3>
 
 
@@ -251,7 +249,7 @@
 
 
 					<div class="row abc" >
-						
+
 						<h3 class="text-center"> <br /><br />Database Management</h3>
 
 						<div class="col-md-9">
@@ -275,38 +273,57 @@
 
 
 						<div class="row abc" >
-							
+
 							<h3 class="text-center"> <br /><br />Application Development</h3>
 
+<p><br />
+								Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Optima’s experienced team of application developers assist organizations through a range of activities spanning the full software development life cycle (SDLC), including</p>
 
+<h5 style="padding-top: 10px">1)Application Design and Development</h5>
 
-							<div class="col-md-3">
+								<p>Providing a full range of development activities, including coding, testing, debugging, documenting, maintaining, and modifying applications<br />
+									Designing a great User Interface (UI) and User Experience (UX) for applications<br />
+								Creating builds for software releases for quality assurance and client user acceptance testing</p>
+
+							<div class="col-md-5">
 
 								<img class="img-responsive" style="padding-top: 50px" src="./img/management/IT_Solution/7.jpg" alt="">
 
 							</div>
 
 
-							<div class="col-md-9">
+							<div class="col-md-7">
 
-								
+								<h5 style="padding-top: 50px">2)Application Integration</h5>
 
-								<p><br />
-								Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Optima’s experienced team of application developers assist organizations through a range of activities spanning the full software development life cycle (SDLC), including</p>
-								<p>1)Application Design and Development:<br />
-									Providing a full range of development activities, including coding, testing, debugging, documenting, maintaining, and modifying applications<br />
-									Designing a great User Interface (UI) and User Experience (UX) for applications<br />
-								Creating builds for software releases for quality assurance and client user acceptance testing</p>
-								<p>2)Application Integration<br />
+								<p >
 									Enabling integration between applications and systems<br />
 								Working with APIs, Web services, and connectors</p>
-								<p>3) Application Modernization<br />
+
+
+								<h5 style="padding-top: 10px">3) Application Modernization</h5>
+
+
+								<p>
 									Modernizing legacy systems to align with current business needs, capitalize on new capabilities,<br />
 								improve agility, reduce risk, and reduce cost</p>
-								<p>4)Application Management and Support<br />
+
+
+
+</div> </div>
+<div class="row abc" >
+<div class="col-md-12">
+
+
+<h5 style="padding-top: 50px">4)Application Management and Support</h5>
+								<p >
 								Providing application management and support services for new and existing applications</p>
 								<p>Resolving technical and functional issues as needed</p>
-								<p>5)Application Maintenance<br />
+
+								<h5 style="padding-top: 10px">5)Application Maintenance</h5>
+
+
+								<p>
 									Conducting reviews to ensure standards and requirements are being met<br />
 								Ensuring systems are performing optimally</p>
 
@@ -318,16 +335,11 @@
 
 
 						<div class="row abc" >
-							
+
 							<h3 class="text-center"> <br /><br />Agile Transformation</h3>
 
 
 
-							<div class="col-md-3">
-
-								<img class="img-responsive" style="padding-top: 50px" src="./img/management/IT_Solution/7.jpg" alt="">
-
-							</div>
 
 
 							<div class="col-md-9">
@@ -342,6 +354,11 @@
 
 							</div>
 
+							<div class="col-md-3">
+
+								<img class="img-responsive" style="padding-top: 50px" src="./img/management/IT_Solution/3.png" alt="">
+
+							</div>
 						</div>
 
 
