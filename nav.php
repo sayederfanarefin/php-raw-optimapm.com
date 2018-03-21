@@ -5,7 +5,7 @@
 					<div class="navbar-header" style="min-height: 80px;">
 						<!-- Logo -->
 						<div class="navbar-brand">
-							<a href="index.html">
+							<a href="index.php">
 								<img class="logo" src="img/logo.png" alt="logo" style="min-height: 80px; padding: 5px;">
 								<img class="logo-alt"  src="img/logo.png" alt="logo" style="min-height: 80px; padding: 5px;">
 							</a>
@@ -24,7 +24,7 @@
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
 						<li class="has-dropdown"><a href="eng_services.php">Engineering Services</a>
-							<ul class="dropdown">
+							<ul class="dropdown" style="background-color: grey; ">
 								<li><a href="eng_services_constructionmanagement.php">Construction Management</a></li>
 								<li><a href="eng_services_designengineering.php">Design Engineering</a></li>
 								<li><a href="eng_services_environmentalplanning.php">Environmental Planning</a></li>
@@ -35,7 +35,7 @@
 
 
 						<li class="has-dropdown"><a href="man_service.php">Management Consultancy</a>
-							<ul class="dropdown">
+							<ul class="dropdown" style="background-color: grey; ">
 								<li><a href="man_service-businessstrategy.php">Business Strategy</a></li>
 
 								<li><a href="man_service_executivetrainingprogram.php">Executive Training Program</a></li>
