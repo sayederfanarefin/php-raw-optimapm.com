@@ -99,7 +99,7 @@
 
 
 						<div class="about">
-							<img id="xyz" class="img-responsive" src="./img/constructionmanagement.png" alt="">
+							<img style="display:block; height:200px; line-height:150px; overflow:hidden;"  class="img-responsive" src="./img/constructionmanagement.png" alt="">
 
 							<p><br>Construction Management</p>
 
@@ -122,7 +122,7 @@
 					<div class="col-md-4">
 
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/3.jpg" alt="">
+							<img style="display:block; height:200px; line-height:150px; overflow:hidden;" class="img-responsive" src="./img/3.jpg" alt="">
 							<p><br>Environmental Planning</p>
 
 							<a class="btn btn-info" role="button" href="eng_services_environmentalplanning.php">Read more</a>
@@ -137,7 +137,7 @@
 					<div class="col-md-2"></div>
 					<div class="col-md-4">
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
+							<img style="display:block; height:200px; line-height:150px; overflow:hidden;" class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
 							<p><br>Project Control Engineering</p>
 
 							<a class="btn btn-info" role="button" href="eng_services -projectcontrolengineering.php">Read more</a>
@@ -147,7 +147,7 @@
 					<div class="col-md-4">
 
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
+							<img style="display:block; height:200px; line-height:150px; overflow:hidden;" class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
 							<p><br>Project Management</p>
 
 							<a class="btn btn-info" role="button" href="eng_services -projectmanagement.php">Read more</a>
