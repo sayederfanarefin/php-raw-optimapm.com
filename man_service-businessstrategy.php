@@ -68,21 +68,13 @@
 
 
 					<div class="row abc" >
-
+<p><br><br></p>
 
 
 						<div class="col-md-6">
 
-							<div class="team" data-toggle="modal" data-target="#exampleModal">
-								<div class="team-img">
+							
 									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
-
-								</div>
-
-
-							</div>
-
-
 							
 						</div>
 
@@ -91,9 +83,12 @@
 <p><strong><u>Review Firm&#8217;s Goals and Objectives</u>:</strong><br />
 Our company first find out the goals and objectives of their respective clients and develop a précised plan accordingly which differs from client to client. Performing SWOT analysis, benchmarking and market research, time management and considering the time frame given by our client, all these play an important part in achieving the objective. Moreover how well these goals are achieved depends on how well both parties understand and manage the process of the entire engagement.</p>
 </div>
-<div class="row abc" >
+</div>
 
+<div class="row abc" >
+<p><br><br></p>
 <div class="col-md-6">
+	<p><br></p>
 	<p>
 	<strong><u>Evaluate Organizational Structure</u>:</strong><br />
 Every organization has their unique organizational/management structure. Company’s organizational structure is a road map of its communication patterns. A well-designed structure can make it easier to identify inefficiencies and new problems as the organization grows. Optima help to achieve by evaluating the company’s whole structure which will fit with the organization’s goals and desired culture.</p>
@@ -102,11 +97,11 @@ Every organization has their unique organizational/management structure. Company
 
 </div>
 						<div class="col-md-6">
-							<div class="team" data-toggle="modal" data-target="#exampleModal">
-								<div class="team-img">
-									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
-								</div>
-							</div>
+							
+
+
+									<img class="img-responsive" src="./img/management/Business_Strategy/2.jpg" alt="">
+								
 						</div>
 
 
@@ -114,6 +109,7 @@ Every organization has their unique organizational/management structure. Company
 
 </div>
 
+<p><br><br></p>
 <p>
 	<strong><u>Analyze Internal Operations</u></strong><strong>:</strong><br />
 An internal company analysis is an evaluation of a company&#8217;s current position from the combined perspectives of marketing, operations, and finance for strategic use. Optima analyze organizations internal operation and use this information for strategic planning which includes company&#8217;s plan for furthering growth, success, and leadership in the marketplace. Determining the business strengths and weaknesses and translate them into the steps necessary for achieving goals and our company will help you on this issue by approaching the business weaknesses from both the internal perspective and from the perspective of the marketplace as a whole.</p>
@@ -127,7 +123,7 @@ An internal company analysis is an evaluation of a company&#8217;s current posit
 			
 <div class="team" data-toggle="modal" data-target="#exampleModal">
 								<div class="team-img">
-									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+									<img class="img-responsive" src="./img/management/Business_Strategy/1.jpg" alt="">
 								</div>
 							</div>
 			
