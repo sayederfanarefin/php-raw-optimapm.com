@@ -74,7 +74,7 @@
 						<div class="col-md-6">
 
 							
-									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+									<img class="img-responsive" src="./img/management/Business_Strategy/2.jpg" alt="">
 							
 						</div>
 
@@ -100,7 +100,7 @@ Every organization has their unique organizational/management structure. Company
 							
 
 
-									<img class="img-responsive" src="./img/management/Business_Strategy/2.jpg" alt="">
+									<img class="img-responsive" src="./img/management/Business_Strategy/4.png" alt="">
 								
 						</div>
 

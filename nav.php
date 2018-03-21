@@ -6,8 +6,8 @@
 						<!-- Logo -->
 						<div class="navbar-brand">
 							<a href="index.html">
-								<img class="logo" src="img/logo.png" alt="logo" style="min-height: 70px; padding: 5px;">
-								<img class="logo-alt"  src="img/logo.png" alt="logo" style="min-height: 70px; padding: 5px;">
+								<img class="logo" src="img/logo.png" alt="logo" style="min-height: 80px; padding: 5px;">
+								<img class="logo-alt"  src="img/logo.png" alt="logo" style="min-height: 80px; padding: 5px;">
 							</a>
 						</div>
 						<!-- /Logo -->

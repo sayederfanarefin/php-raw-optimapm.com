@@ -83,7 +83,7 @@
 
 
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/constructionmanagement.png" alt="">
+							<img  id="xyz" class="img-responsive" src="./img/management/Business_Strategy/2.jpg" alt="">
 							<p><br>Business Strategy</p>
 
 							<a class="btn btn-info" role="button" href="man_service-businessstrategy.php">Read more</a>
@@ -94,7 +94,7 @@
 					<div class="col-md-4">
 
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/design.jpg" alt="">
+							<img  id="xyz" class="img-responsive" src="./img/management/Executive_Training/2.jpg" alt="">
 
 							<p><br>Executive Training Program</p>
 
@@ -121,7 +121,7 @@
 					<div class="col-md-2"></div>
 					<div class="col-md-4">
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
+							<img  id="xyz" class="img-responsive" src="./img/management/Organizational_Development/3.jpg" alt="">
 							<p><br>Organizational Development</p>
 
 							<a class="btn btn-info" role="button" href="man_service_organizationaldevelopment.php">Read more</a>
@@ -131,7 +131,7 @@
 					<div class="col-md-4">
 
 						<div class="about">
-							<img  id="xyz" class="img-responsive" src="./img/disruption_mainart2.jpg" alt="">
+							<img  id="xyz" class="img-responsive" src="./img/management/Risk_Management/1.png" alt="">
 							<p><br>Risk Management</p>
 
 							<a class="btn btn-info" role="button" href="man_service_riskmanagement.php">Read more</a>
