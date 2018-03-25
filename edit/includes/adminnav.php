@@ -12,7 +12,7 @@
             </div>
             
             <ul class="nav navbar-right top-nav">
-                <li><a href="../index">VISIT SITE</a></li>
+                <li><a href="../index.php">VISIT SITE</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <?php echo $_SESSION['firstname'] . ' ' . $_SESSION['lastname']; ?> <b class="caret"></b></a>
                     <ul class="dropdown-menu">
@@ -21,7 +21,7 @@
                         </li>
                         <li class="divider"></li>
                         <li>
-                            <a href="../logout"><i class="fa fa-fw fa-power-off"></i> Log Out</a>
+                            <a href="../logout.php"><i class="fa fa-fw fa-power-off"></i> Log Out</a>
                         </li>
                     </ul>
                 </li>
@@ -37,20 +37,20 @@
                         <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#posts"><i class="fa fa-fw fa-file-text"></i> Posts <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="posts" class="collapse">
                             <li>
-                                <a href="./posts">View All Posts</a>
+                                <a href="./posts.php">View All Posts</a>
                             </li>
                             <li>
-                                <a href="./publishnews">Add New Post</a>
+                                <a href="./publishnews.php">Add New Post</a>
                             </li>
                         </ul>
                         <li>
                          <a href="javascript:;" data-toggle="collapse" data-target="#user"><i class="fa fa-fw fa-users"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="user" class="collapse">
                             <li>
-                                <a href="./users">View All Users</a>
+                                <a href="./users.php">View All Users</a>
                             </li>
                             <li>
-                                <a href="adduser">Add New User</a>
+                                <a href="adduser.php">Add New User</a>
                             </li>
                         </ul>
                     </li>
