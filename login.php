@@ -26,22 +26,22 @@ if (mysqli_num_rows($result) > 0) {
 			$_SESSION['email']  = $email;
 			$_SESSION['role'] = $role;
 			$_SESSION['image'] = $image;
-			header('location: admin');
+			header('location: admin.php');
 		}
 		else {
 			echo "<script>alert('invalid username/password');
-			window.location.href= 'index';</script>";
+			window.location.href= 'index.php';</script>";
 
 		}
 	}
 }
 else {
 			echo "<script>alert('invalid username/password');
-			window.location.href= 'index';</script>";
+			window.location.href= 'index.php';</script>";
 
 		}
 }
 else {
-	header('location: index');
+	header('location: index.php');
 }
 ?>
