@@ -115,6 +115,50 @@
 
                   <?php }}}?>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="blog">
+                  <div class="blog-img">
+                    <img class="img-responsive" src="./img/news/2.jpg" alt="" height="200" width="200">
+                  </div>
+
+
+                  <div class="blog-content"> 
+
+
+                    <p><h3><a href="">Site visit to potash mine project in Eritrea</a></h3></p>
+
+                    <p><span class="glyphicon glyphicon-time"></span>Posted on Dec 2017</p>
+                    
+                      <hr>
+                      <p>Optima staff visited the proposed potash mine project site in Eritrea. As part of the Independent Environmental Health, Social and Safety Consultant (IESC) team, Optima staff members from Seattle, WA and Asmara, Eritrea visited the proposed sites for potash mine and desalination water plant. Visit included meetings with country government officials and local village representatives as part of the due diligence review of the Environmental and Social Impact Assessment (ESIA) report and Bankable Feasibility Studies (BFS) report. </p>
+                
+                      
+                      <hr>
+
+                    </div>
+                  </div>
+
+
+
+
+
+
+
+
+
                   <hr>
                   <ul class="pager">
                     <li class="previous"><a href="#"><span class="glyphicon glyphicon-arrow-left"></span> Older</a></li>
