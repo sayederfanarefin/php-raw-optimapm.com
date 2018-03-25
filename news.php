@@ -131,7 +131,7 @@
 
 <div class="blog">
                   <div class="blog-img">
-                    <img class="img-responsive" src="./img/news/2.jpg" alt="" height="200" width="200">
+                    <img class="img-responsive" src="./img/news/2.jpg" alt="" height="400" width="400">
                   </div>
 
 
@@ -159,7 +159,7 @@
 
 <div class="blog">
                   <div class="blog-img">
-                    <img class="img-responsive" src="./img/news/20.png" alt="" height="200" width="200">
+                    <img class="img-responsive" src="./img/news/20.png" alt="" height="400" width="400">
                   </div>
 
 
@@ -186,7 +186,7 @@
 
                   <div class="blog">
                   <div class="blog-img">
-                    <img class="img-responsive" src="./img/news/11.jpg" alt="" height="200" width="200">
+                    <img class="img-responsive" src="./img/news/11.jpg" alt="" height="400" width="400">
                   </div>
 
 
