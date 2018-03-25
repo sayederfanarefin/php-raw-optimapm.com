@@ -362,16 +362,16 @@
 						<div class="col-md-4">
 							<div class="blog">
 								<div class="blog-img">
-									<img class="img-responsive" src="./img/blog1.jpg" alt="">
+									<img class="img-responsive" src="./img/news/2.jpg" alt="">
 								</div>
 								<div class="blog-content">
 									<ul class="blog-meta">
-										<li><i class="fa fa-user"></i>John doe</li>
-										<li><i class="fa fa-clock-o"></i>18 Oct</li>
-										<li><i class="fa fa-comments"></i>57</li>
+										<li><i class="fa fa-user"></i>Optima</li>
+										<li><i class="fa fa-clock-o"></i>Dec 2017</li>
+										
 									</ul>
-									<h3>Molestie at elementum eu facilisis sed odio</h3>
-									<p>Nec feugiat nisl pretium fusce id velit ut tortor pretium. Nisl purus in mollis nunc sed. Nunc non blandit massa enim nec.</p>
+									<h3>Site visit to potash mine project in Eritrea </h3>
+									<p>Optima staff visited the proposed potash mine project site in Eritrea. As part of the Independent Environmental Health, Social and Safety Consultant (IESC) team, Optima staff members from Seattle, WA and Asmara, Eritrea visited the proposed sites for potash mine and desalination water plant. Visit included meetings with country government officials and local village representatives as part of the due diligence review of the Environmental and Social Impact Assessment (ESIA) report and Bankable Feasibility Studies (BFS) report. </p>
 									<a href="blog-single.html">Read more</a>
 								</div>
 							</div>
@@ -382,16 +382,16 @@
 						<div class="col-md-4">
 							<div class="blog">
 								<div class="blog-img">
-									<img class="img-responsive" src="./img/blog2.jpg" alt="">
+									<img class="img-responsive" src="./img/news/20.png" alt="">
 								</div>
 								<div class="blog-content">
 									<ul class="blog-meta">
-										<li><i class="fa fa-user"></i>John doe</li>
-										<li><i class="fa fa-clock-o"></i>18 Oct</li>
-										<li><i class="fa fa-comments"></i>57</li>
+										<li><i class="fa fa-user"></i>Optima</li>
+										<li><i class="fa fa-clock-o"></i>July 2017</li>
+										
 									</ul>
-									<h3>Molestie at elementum eu facilisis sed odio</h3>
-									<p>Nec feugiat nisl pretium fusce id velit ut tortor pretium. Nisl purus in mollis nunc sed. Nunc non blandit massa enim nec.</p>
+									<h3>Completion of Fremont Siphon Sewer Replacement Project, Seattle, Washington</h3>
+									<p>Construction of the Fremont Siphon Sewer Replacement by the King County Wastewater Division was recently completed. Optima staff provided Engineering Services during Construction (ESDC) for construction of two 60-in diameter tunnels under Lake Washington Ship Canal using remote controlled micro-tunneling boring machine (MTBM). </p>
 									<a href="blog-single.html">Read more</a>
 								</div>
 							</div>
@@ -402,16 +402,16 @@
 						<div class="col-md-4">
 							<div class="blog">
 								<div class="blog-img">
-									<img class="img-responsive"  src="./img/blog3.jpg" alt="">
+									<img class="img-responsive"  src="./img/news/11.jpg" alt="">
 								</div>
 								<div class="blog-content">
 									<ul class="blog-meta">
-										<li><i class="fa fa-user"></i>John doe</li>
-										<li><i class="fa fa-clock-o"></i>18 Oct</li>
-										<li><i class="fa fa-comments"></i>57</li>
+										<li><i class="fa fa-user"></i>Optima</li>
+										<li><i class="fa fa-clock-o"></i>Sept 2017</li>
+										
 									</ul>
-									<h3>Molestie at elementum eu facilisis sed odio</h3>
-									<p>Nec feugiat nisl pretium fusce id velit ut tortor pretium. Nisl purus in mollis nunc sed. Nunc non blandit massa enim nec.</p>
+									<h3>Presentation at International Conference on Business and Management, BRAC University, Dhaka</h3>
+									<p>Aleya Ikbal, VP of Optima, presented the paper titled Performance Framework for Driving Results: How Seattle IT is improving performance using the framework approach at the 1st International Conference on Business and Management organized by BRAC University in Dhaka on Sep 21-22, 2017. </p>
 									<a href="blog-single.html">Read more</a>
 								</div>
 							</div>
