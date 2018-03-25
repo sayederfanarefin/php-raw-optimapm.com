@@ -157,6 +157,59 @@
 
 
 
+<div class="blog">
+                  <div class="blog-img">
+                    <img class="img-responsive" src="./img/news/20.png" alt="" height="200" width="200">
+                  </div>
+
+
+                  <div class="blog-content"> 
+
+
+                    <p><h3><a href="">Completion of Fremont Siphon Sewer Replacement Project, Seattle, Washington</a></h3></p>
+
+                    <p><span class="glyphicon glyphicon-time"></span>Posted on July 2017</p>
+                    
+                      <hr>
+                      <p>Construction of the Fremont Siphon Sewer Replacement by the King County Wastewater Division was recently completed. Optima staff provided Engineering Services during Construction (ESDC) for construction of two 60-in diameter tunnels under Lake Washington Ship Canal using remote controlled micro-tunneling boring machine (MTBM). </p>
+                  
+                      
+                      <hr>
+
+                    </div>
+                  </div>
+
+
+
+
+
+
+                  <div class="blog">
+                  <div class="blog-img">
+                    <img class="img-responsive" src="./img/news/11.jpg" alt="" height="200" width="200">
+                  </div>
+
+
+                  <div class="blog-content"> 
+
+
+                    <p><h3><a href="">Presentation at International Conference on Business and Management, BRAC University, Dhaka</a></h3></p>
+
+                    <p><span class="glyphicon glyphicon-time"></span>Posted on Sept 2017</p>
+                    
+                      <hr>
+                     <p>Aleya Ikbal, VP of Optima, presented the paper titled Performance Framework for Driving Results: How Seattle IT is improving performance using the framework approach at the 1st International Conference on Business and Management organized by BRAC University in Dhaka on Sep 21-22, 2017. </p>
+                  
+                      
+                      <hr>
+
+                    </div>
+                  </div>
+
+
+
+
+
 
 
                   <hr>
