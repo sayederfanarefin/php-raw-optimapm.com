@@ -44,7 +44,7 @@
 
 		<!-- header wrapper -->
 		<div class="bg-grey">
-			<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+			<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
@@ -69,18 +69,12 @@
 		<div class="col-md-10">
 
 			<div class="row abc" >
-				<div class="col-md-2">
+				<div class="col-md-3">
 				</div>
-				<div class="col-md-8">
+				<div class="col-md-6">
 
-					<div class="team" data-toggle="modal" data-target="#exampleModal">
-						<div class="team-img">
-							<img class="img-responsive" src="./img/management/Executive_Training/2.jpg" alt="">
-
-						</div>
-
-
-					</div>
+					
+<img class="img-responsive" src="./img/management/Executive_Training/2.jpg" alt="">
 
 
 
@@ -91,7 +85,7 @@
 			<div class="row abc" >
 				<div class="col-md-12">
 
-					<p>The Executive Training Program is designed to increase the business skills and leadership capabilities of managers who lead to key divisions of the companies and aspire to be among top leadership in the organizations. EDP takes a multidimensional approach to learning, combining lectures, small/large group discussion, case study, role playing, campus networking opportunities and a strategy simulation to provide new insights and give you opportunities to apply them. During the program you will:</p>
+					<p><br>The Executive Training Program is designed to increase the business skills and leadership capabilities of managers who lead to key divisions of the companies and aspire to be among top leadership in the organizations. EDP takes a multidimensional approach to learning, combining lectures, small/large group discussion, case study, role playing, campus networking opportunities and a strategy simulation to provide new insights and give you opportunities to apply them. During the program you will:</p>
 
 
 				</div>

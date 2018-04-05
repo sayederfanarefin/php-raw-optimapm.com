@@ -45,128 +45,119 @@
 
 			<!-- header wrapper -->
 			<div class="bg-grey">
-				<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+				<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
 					<div class="section-header text-center" >
-						<h2 class="title" style="padding-top: 10vh;">Construction Management</h2>
+						<h2 class="title" style="padding-top: 50px;">Construction Management</h2>
 					</div>
 
 				</div>
 			</div>
-			</header>
-			<!-- /header wrapper -->
+		</header>
+		<!-- /header wrapper -->
 
-			<div class="row"  style="padding-top: 10vh;" >
-				<div class="col-md-1"></div>
-
-
-
-
-				<div class="col-md-10">
-
-					<div class="row abc" >
-
-<div class="col-md-2"></div>
-						<div class="col-md-8">
-
-					
-									<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+		<div class="row"  style="padding-top: 10px;" >
+			<div class="col-md-1"></div>
 
 
 
-							
-						</div>
+
+			<div class="col-md-10">
+
+				<div class="row abc" >
+
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+
+
+						<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
+
 
 					</div>
-<div class="row abc" >
 
+				</div>
+				<div class="row abc" >
+					<div class="col-md-12">
 
-						<div class="col-md-12">
-
-
-							<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
-							<p><br><br>Optima provides services during the design phase in the form of constructability reviews, coordination, and scheduling, and also during the construction phase in the form of construction management, project control and inspections. Optima has a history of identifying and resolving potential difficulties during the design phase and providing quick and effective solutions during the construction phase when changes in the field arise. We also serve as the owner’s representative out in the field. Our services include:</p>
-
-
-
-
-						</div>
+						<p><br><br>Optima provides services during the design phase in the form of constructability reviews, coordination, and scheduling, and also during the construction phase in the form of construction management, project control and inspections. Optima has a history of identifying and resolving potential difficulties during the design phase and providing quick and effective solutions during the construction phase when changes in the field arise. We also serve as the owner’s representative out in the field. Our services include:</p>
 
 					</div>
-<div class="row abc" >
-<div class="col-md-2"></div>
 
-						<div class="col-md-8">
-							<ul>
-								<li>Providing on-site inspection of construction activities providing daily reports</li>
-								<li>Tracking/inspecting all deliveries</li>
-								<li>Identifying non-conforming contract work</li>
-								<li>Monitoring/tracking delays and extra work</li>
-								<li>Reviewing and processing monthly progress payments</li>
-								<li>Change order reviews</li>
-								<li>Preparing milestone punch-lists</li>
-								<li>Reviewing as-built drawings</li>
-								<li>Resident Engineer/Inspection</li>
-								<li>Coordination with designers, owners, and stakeholders</li>
-							</ul>
+				</div>
+				<div class="row abc" >
+					<div class="col-md-2"></div>
+
+					<div class="col-md-8">
+						<ul>
+							<li>Providing on-site inspection of construction activities providing daily reports</li>
+							<li>Tracking/inspecting all deliveries</li>
+							<li>Identifying non-conforming contract work</li>
+							<li>Monitoring/tracking delays and extra work</li>
+							<li>Reviewing and processing monthly progress payments</li>
+							<li>Change order reviews</li>
+							<li>Preparing milestone punch-lists</li>
+							<li>Reviewing as-built drawings</li>
+							<li>Resident Engineer/Inspection</li>
+							<li>Coordination with designers, owners, and stakeholders</li>
+						</ul>
 
 
-						</div>
-						
 					</div>
-
-
-
 
 				</div>
 
 
-				<div class="col-md-1"></div>
+
+
 			</div>
+
+
+			<div class="col-md-1"></div>
+		</div>
 
 
 		<!-- /Header -->
-<div class="row">
-<br><br><br>
-</div>
+		<div class="row">
+			<br><br><br>
+		</div>
 		
 
 		<?php include 'footer.php';?>
 
-				<!-- Back to top -->
-				<div id="back-to-top"></div>
-				<!-- /Back to top -->
+		<!-- Back to top -->
+		<div id="back-to-top"></div>
+		<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+		<!-- Preloader -->
+		<div id="preloader">
+			<div class="preloader">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<!-- /Preloader -->
 
-				<!-- jQuery Plugins -->
-				<script type="text/javascript" src="js/jquery.min.js"></script>
-				<script type="text/javascript" src="js/bootstrap.min.js"></script>
-				<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-				<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
-				<script type="text/javascript" src="js/main.js"></script>
+		<!-- jQuery Plugins -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
 
-				<style type="text/css">
-
-
+		<style type="text/css">
 
 
-.abc li:before {
-  content: "•";
-  padding-right: 5px;
-  }
-  </style>
-</body>
 
-</html>
+
+		.abc li:before {
+			content: "•";
+			padding-right: 5px;
+		}
+		</style>
+	</body>
+
+	</html>

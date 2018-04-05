@@ -45,7 +45,7 @@
 
 			<!-- header wrapper -->
 			<div class="bg-grey">
-				<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+				<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
@@ -59,7 +59,7 @@
 			<!-- /header wrapper -->
 
 			<!--left-->
-<div class="row" style="padding-top: 10vh;">
+<div class="row" style="padding-top: 10px;">
 				<div class="col-md-1"></div>
 
 

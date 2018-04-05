@@ -45,7 +45,7 @@
 
 			<!-- header wrapper -->
 			<div class="bg-grey">
-				<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+				<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
@@ -55,149 +55,149 @@
 
 				</div>
 			</div>
-			</header>
-			<!-- /header wrapper -->
+		</header>
+		<!-- /header wrapper -->
 
-			<div class="row" >
-				<div class="col-md-1"></div>
-
-
+		<div class="row" >
+			<div class="col-md-1"></div>
 
 
-				<div class="col-md-10">
 
+
+			<div class="col-md-10">
+
+
+				<div class="row abc" >
+					<p><br><br></p>
+
+
+					<div class="col-md-6">
+
+
+						<img class="img-responsive" src="./img/management/Business_Strategy/2.jpg" alt="">
+
+					</div>
+
+					<div class="col-md-6">
+						<strong>Business strategy</strong><em> gives the firm&#8217;s working plan for achieving its vision, prioritizing objectives, competing successfully and optimizing financial performance with its business models.</em></p>
+						<p><strong><u>Review Firm&#8217;s Goals and Objectives</u>:</strong><br />
+							Our company first find out the goals and objectives of their respective clients and develop a précised plan accordingly which differs from client to client. Performing SWOT analysis, benchmarking and market research, time management and considering the time frame given by our client, all these play an important part in achieving the objective. Moreover how well these goals are achieved depends on how well both parties understand and manage the process of the entire engagement.</p>
+						</div>
+					</div>
 
 					<div class="row abc" >
-<p><br><br></p>
-
-
+						<p><br><br></p>
 						<div class="col-md-6">
-
-							
-									<img class="img-responsive" src="./img/management/Business_Strategy/2.jpg" alt="">
-							
-						</div>
-
-						<div class="col-md-6">
-<strong>Business strategy</strong><em> gives the firm&#8217;s working plan for achieving its vision, prioritizing objectives, competing successfully and optimizing financial performance with its business models.</em></p>
-<p><strong><u>Review Firm&#8217;s Goals and Objectives</u>:</strong><br />
-Our company first find out the goals and objectives of their respective clients and develop a précised plan accordingly which differs from client to client. Performing SWOT analysis, benchmarking and market research, time management and considering the time frame given by our client, all these play an important part in achieving the objective. Moreover how well these goals are achieved depends on how well both parties understand and manage the process of the entire engagement.</p>
-</div>
-</div>
-
-<div class="row abc" >
-<p><br><br></p>
-<div class="col-md-6">
-	<p><br></p>
-	<p>
-	<strong><u>Evaluate Organizational Structure</u>:</strong><br />
-Every organization has their unique organizational/management structure. Company’s organizational structure is a road map of its communication patterns. A well-designed structure can make it easier to identify inefficiencies and new problems as the organization grows. Optima help to achieve by evaluating the company’s whole structure which will fit with the organization’s goals and desired culture.</p>
+							<p><br></p>
+							<p>
+								<strong><u>Evaluate Organizational Structure</u>:</strong><br />
+								Every organization has their unique organizational/management structure. Company’s organizational structure is a road map of its communication patterns. A well-designed structure can make it easier to identify inefficiencies and new problems as the organization grows. Optima help to achieve by evaluating the company’s whole structure which will fit with the organization’s goals and desired culture.</p>
 
 
 
-</div>
-						<div class="col-md-6">
-							
+							</div>
+							<div class="col-md-6">
 
 
-									<img class="img-responsive" src="./img/management/Business_Strategy/4.png" alt="">
+
+								<img style="height: 250px;" class="img-responsive" src="./img/management/Business_Strategy/4.png" alt="">
 								
+							</div>
+
+
+
+
 						</div>
 
+						<p><br><br></p>
+						<p>
+							<strong><u>Analyze Internal Operations</u></strong><strong>:</strong><br />
+							An internal company analysis is an evaluation of a company&#8217;s current position from the combined perspectives of marketing, operations, and finance for strategic use. Optima analyze organizations internal operation and use this information for strategic planning which includes company&#8217;s plan for furthering growth, success, and leadership in the marketplace. Determining the business strengths and weaknesses and translate them into the steps necessary for achieving goals and our company will help you on this issue by approaching the business weaknesses from both the internal perspective and from the perspective of the marketplace as a whole.</p>
+							<p><strong><u> </u></strong></p>
 
 
+							<div class="row abc" >
 
-</div>
+								<div class="col-md-3"></div>
+								<div class="col-md-6">
 
-<p><br><br></p>
-<p>
-	<strong><u>Analyze Internal Operations</u></strong><strong>:</strong><br />
-An internal company analysis is an evaluation of a company&#8217;s current position from the combined perspectives of marketing, operations, and finance for strategic use. Optima analyze organizations internal operation and use this information for strategic planning which includes company&#8217;s plan for furthering growth, success, and leadership in the marketplace. Determining the business strengths and weaknesses and translate them into the steps necessary for achieving goals and our company will help you on this issue by approaching the business weaknesses from both the internal perspective and from the perspective of the marketplace as a whole.</p>
-<p><strong><u> </u></strong></p>
+									<div class="team" data-toggle="modal" data-target="#exampleModal">
+										<div class="team-img">
+											<img class="img-responsive" src="./img/management/Business_Strategy/1.jpg" alt="">
+										</div>
+									</div>
 
-
-<div class="row abc" >
-	
-<div class="col-md-2"></div>
-		<div class="col-md-8">
-			
-<div class="team" data-toggle="modal" data-target="#exampleModal">
-								<div class="team-img">
-									<img class="img-responsive" src="./img/management/Business_Strategy/1.jpg" alt="">
 								</div>
 							</div>
-			
-		</div>
-</div>
 
 
-<p><strong><u>Assess Strengths and Weaknesses</u></strong><strong>:</strong><br />
-We help to asses our client’s strength and weakness and work side by side for a better outcome by converting their weakness into strength and strength to power eventually giving a better result.</p>
-<p><strong><u>Review/Develop Position Descriptions</u></strong><strong>:<br />
-</strong>A job description is a useful, plain-language tool that describes the tasks, duties, functions and responsibilities of a position. It outlines the details of who performs a specific type of work, how that work is to be completed, the frequency and the purpose of the work as it relates to the organization’s mission and goals. Job descriptions are used for a variety of reasons, such as a tool for recruiting, determining salary levels, conducting performance reviews, clarifying missions, establishing titles and pay grades, and creating reasonable accommodation controls. Job descriptions are useful for career planning, training exercises and legal requirements for compliance purposes. A job description gives an employee a clear and concise resource to be used as a guide for job performance. Likewise, a supervisor can use a job description as a measuring tool to ensure that the employee is meeting job expectations and our company will help you fulfill the task.</p>
-<p><strong> </strong></p>
+							<p><strong><u>Assess Strengths and Weaknesses</u></strong><strong>:</strong><br />
+								We help to asses our client’s strength and weakness and work side by side for a better outcome by converting their weakness into strength and strength to power eventually giving a better result.</p>
+								<p><strong><u>Review/Develop Position Descriptions</u></strong><strong>:<br />
+								</strong>A job description is a useful, plain-language tool that describes the tasks, duties, functions and responsibilities of a position. It outlines the details of who performs a specific type of work, how that work is to be completed, the frequency and the purpose of the work as it relates to the organization’s mission and goals. Job descriptions are used for a variety of reasons, such as a tool for recruiting, determining salary levels, conducting performance reviews, clarifying missions, establishing titles and pay grades, and creating reasonable accommodation controls. Job descriptions are useful for career planning, training exercises and legal requirements for compliance purposes. A job description gives an employee a clear and concise resource to be used as a guide for job performance. Likewise, a supervisor can use a job description as a measuring tool to ensure that the employee is meeting job expectations and our company will help you fulfill the task.</p>
+								<p><strong> </strong></p>
 
+
+							</div>
 
 						</div>
-						
+
+
+
+
 					</div>
 
 
-
-
+					<div class="col-md-1"></div>
 				</div>
 
 
-				<div class="col-md-1"></div>
+
+
+
 			</div>
 
 
 
-
-
+			<!-- /Header -->
+			<div class="row">
+				<br><br><br>
 			</div>
 
+			<?php include 'footer.php';?>
 
-		
-		<!-- /Header -->
-<div class="row">
-<br><br><br>
-</div>
-		
-<?php include 'footer.php';?>
+			<!-- Back to top -->
+			<div id="back-to-top"></div>
+			<!-- /Back to top -->
 
-				<!-- Back to top -->
-				<div id="back-to-top"></div>
-				<!-- /Back to top -->
-
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
+			<!-- Preloader -->
+			<div id="preloader">
+				<div class="preloader">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
 				</div>
-				<!-- /Preloader -->
+			</div>
+			<!-- /Preloader -->
 
-				<!-- jQuery Plugins -->
-				<script type="text/javascript" src="js/jquery.min.js"></script>
-				<script type="text/javascript" src="js/bootstrap.min.js"></script>
-				<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-				<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
-				<script type="text/javascript" src="js/main.js"></script>
+			<!-- jQuery Plugins -->
+			<script type="text/javascript" src="js/jquery.min.js"></script>
+			<script type="text/javascript" src="js/bootstrap.min.js"></script>
+			<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+			<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+			<script type="text/javascript" src="js/main.js"></script>
 
-				<style type="text/css">
-
-
+			<style type="text/css">
 
 
-.abc li:before {
-  content: "•";
-  padding-right: 5px;
-  }
-  </style>
-</body>
 
-</html>
+
+			.abc li:before {
+				content: "•";
+				padding-right: 5px;
+			}
+			</style>
+		</body>
+
+		</html>

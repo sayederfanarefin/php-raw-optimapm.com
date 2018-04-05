@@ -45,7 +45,7 @@
 
 		<!-- header wrapper -->
 		<div class="bg-grey">
-			<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+			<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
