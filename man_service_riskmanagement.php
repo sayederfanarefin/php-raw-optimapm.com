@@ -45,12 +45,12 @@
 
 			<!-- header wrapper -->
 			<div class="bg-grey">
-				<div class="container abc" style="padding-left: 50px;padding-right: 50px;padding-bottom: 50px;">
+				<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
 					<div class="section-header text-center" >
-						<h2 class="title" style="padding-top: 10vh;">Risk Management</h2>
+						<h2 class="title" style="padding-top: 10px;"><br /><br />Risk Management</h2>
 					</div>
 
 
@@ -123,12 +123,12 @@
 
 					</div></div>
 					<div class="row" >
-						<div class="col-md-1"></div>
+						<div class="col-md-3"></div>
 
 
 
 
-						<div class="col-md-10">
+						<div class="col-md-6">
 							<img class="img-responsive" src="./img/management/Risk_Management/2.jpg" alt="">
 
 
@@ -184,40 +184,20 @@
 
 <div class="col-md-5">
 
-								<img class="img-responsive" src="./img/management/Risk_Management/4.png" alt="">
+								<img class="img-responsive" src="./img/management/Risk_Management/4.png" alt="" style="height:300px">
 
 							</div>
 
 							<div class="col-md-6">
-
-
 
 								
 								<h5>Risk sharing:</h5>Sometimes, the consequences of a risk is shared, or distributed among several of the project&#8217;s participants or business departments. The risk could also be shared with a third party, such as a <a href="http://whatis.techtarget.com/definition/vendor">vendor</a> or business partner.
 
 								<h5>Risk retaining:</h5> Sometimes, companies decide a risk is worth it from a business standpoint, and decide to retain the risk and deal with any potential fallout. Companies will often retain a certain level of risk a project&#8217;s anticipated profit is greater than the costs of its potential risk</p>
 
-
-
-
 							</div>
-
-
-
-							
-
 						</div>
-
-
-
-
-
-
-
-
 					</div>
-
-
 					<div class="col-md-1"></div>
 				</div>
 
