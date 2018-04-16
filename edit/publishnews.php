@@ -16,33 +16,10 @@
                         </h1>
 <?php
 if (isset($_POST['publish'])) {
-require "../gump.class.php";
-$gump = new GUMP();
-$_POST = $gump->sanitize($_POST); 
 
-$gump->validation_rules(array(
-    'title'    => 'required|max_len,120|min_len,15',
-    'tags'   => 'required|max_len,100|min_len,3',
-    'content' => 'required|max_len,20000|min_len,150',
-));
-$gump->filter_rules(array(
-    'title' => 'trim|sanitize_string',
-    'tags' => 'trim|sanitize_string',
-    ));
-$validated_data = $gump->run($_POST);
-
-if($validated_data === false) {
-    ?>
-    <center><font color="red" > <?php echo $gump->get_readable_errors(true); ?> </font></center>
-    <?php 
     $post_title = $_POST['title'];
       $post_tag = $_POST['tags'];
       $post_content = $_POST['content'];
-}
-else {
-    $post_title = $validated_data['title'];
-      $post_tag = $validated_data['tags'];
-      $post_content = $validated_data['content'];
 if (isset($_SESSION['firstname'])) {
         $post_author = $_SESSION['firstname'];
     }
@@ -79,7 +56,7 @@ echo "<script>alert('Image size is not proper');</script>";
                 "<script> alert('Error while posting..try again');</script>";
             }
         }
-    }
+    
 }
 }
 ?>

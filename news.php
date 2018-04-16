@@ -69,10 +69,8 @@
     <div class="container">
       <div class="row">
 
-        <div class="col-md-8">
-
-          <?php
-          $query = "SELECT * FROM posts WHERE status='published' ORDER BY updated_on DESC";
+  <?php
+          $query = "SELECT * FROM posts WHERE status='published' ORDER BY updated_on DESC LIMIT 3";
           $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
           if (mysqli_num_rows($run_query) > 0) {
             while ($row = mysqli_fetch_assoc($run_query)) {
@@ -80,7 +78,7 @@
               $post_id = $row['id'];
               $post_author = $row['author'];
               $post_date = $row['postdate'];
-              $post_image = $row['image'];
+              $post_image =  "/allpostpics/" . $row['image'];
               $post_content = $row['content'];
               $post_tags = $row['tag'];
               $post_status = $row['status'];
@@ -91,27 +89,25 @@
                 ?>
 
 
-
+<div class="col-md-4">
                 <div class="blog">
                   <div class="blog-img">
-                    <img class="img-responsive" src="allpostpics/<?php echo $post_image; ?>" alt="" height="200" width="200">
+                    <img class="img-responsive" src="<?php echo $post_image; ?>" alt="">
                   </div>
+                  <div class="blog-content">
+                    <ul class="blog-meta">
+                      
+                      <li><p><span class="glyphicon glyphicon-time"></span>Posted on <?php echo $post_date; ?></p></li>
 
+                    </ul>
+                    <a href="publicposts.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
+                     <p><?php echo substr($post_content, 0, 100) . '.........'; ?></p>
 
-                  <div class="blog-content"> 
-
-
-                    <p><h3><a href="publicposts.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a></h3></p>
-
-                    <p><span class="glyphicon glyphicon-time"></span>Posted on <?php echo $post_date; ?></p>
+                     <a href="publicposts.php?post=<?php echo $post_id; ?>">Read more</a>
                     
-                      <hr>
-                      <p><?php echo substr($post_content, 0, 300) . '.........'; ?></p>
-                      <a href="publicposts.php?post=<?php echo $post_id; ?>"><button type="button" class="btn btn-primary">Read More<span class="glyphicon glyphicon-chevron-right"></span></button></a>
-                      <hr>
-
-                    </div>
                   </div>
+                </div>
+              </div>
 
                   <?php }}}?>
 
@@ -119,110 +115,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<div class="blog">
-                  <div class="blog-img">
-                    <img class="img-responsive" src="./img/news/2.jpg" alt="" height="400" width="400">
-                  </div>
-
-
-                  <div class="blog-content"> 
-
-
-                    <p><h3><a href="">Site visit to potash mine project in Eritrea</a></h3></p>
-
-                    <p><span class="glyphicon glyphicon-time"></span>Posted on Dec 2017</p>
-                    
-                      <hr>
-                      <p>Optima staff visited the proposed potash mine project site in Eritrea. As part of the Independent Environmental Health, Social and Safety Consultant (IESC) team, Optima staff members from Seattle, WA and Asmara, Eritrea visited the proposed sites for potash mine and desalination water plant. Visit included meetings with country government officials and local village representatives as part of the due diligence review of the Environmental and Social Impact Assessment (ESIA) report and Bankable Feasibility Studies (BFS) report. </p>
-                
-                      
-                      <hr>
-
-                    </div>
-                  </div>
-
-
-
-
-
-
-
-<div class="blog">
-                  <div class="blog-img">
-                    <img class="img-responsive" src="./img/news/20.png" alt="" height="400" width="400">
-                  </div>
-
-
-                  <div class="blog-content"> 
-
-
-                    <p><h3><a href="">Completion of Fremont Siphon Sewer Replacement Project, Seattle, Washington</a></h3></p>
-
-                    <p><span class="glyphicon glyphicon-time"></span>Posted on July 2017</p>
-                    
-                      <hr>
-                      <p>Construction of the Fremont Siphon Sewer Replacement by the King County Wastewater Division was recently completed. Optima staff provided Engineering Services during Construction (ESDC) for construction of two 60-in diameter tunnels under Lake Washington Ship Canal using remote controlled micro-tunneling boring machine (MTBM). </p>
-                  
-                      
-                      <hr>
-
-                    </div>
-                  </div>
-
-
-
-
-
-
-                  <div class="blog">
-                  <div class="blog-img">
-                    <img class="img-responsive" src="./img/news/11.jpg" alt="" height="400" width="400">
-                  </div>
-
-
-                  <div class="blog-content"> 
-
-
-                    <p><h3><a href="">Presentation at International Conference on Business and Management, BRAC University, Dhaka</a></h3></p>
-
-                    <p><span class="glyphicon glyphicon-time"></span>Posted on Sept 2017</p>
-                    
-                      <hr>
-                     <p>Aleya Ikbal, VP of Optima, presented the paper titled Performance Framework for Driving Results: How Seattle IT is improving performance using the framework approach at the 1st International Conference on Business and Management organized by BRAC University in Dhaka on Sep 21-22, 2017. </p>
-                  
-                      
-                      <hr>
-
-                    </div>
-                  </div>
-
-
-
-
-
-
-
-                  <hr>
+              </div>
+ <hr>
                   <ul class="pager">
                     <li class="previous"><a href="#"><span class="glyphicon glyphicon-arrow-left"></span> Older</a></li>
                     <li class="next"><a href="#">Newer <span class="glyphicon glyphicon-arrow-right"></span></a></li>
                   </ul>
-                </div>
-
-
-
-              </div>
-
 
             </div>
 

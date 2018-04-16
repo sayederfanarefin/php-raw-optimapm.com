@@ -6,7 +6,7 @@ if (isset($_SESSION['role'])) {
 }
 else {
     echo "<script>alert('you need to login first');
-    window.location.href='../index';</script>";	
+    window.location.href='../login.php';</script>";	
 }
 
 ?>

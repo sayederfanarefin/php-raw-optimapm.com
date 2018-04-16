@@ -1,4 +1,4 @@
-<div class="well">
+<!-- <div class="well">
 
                     <h4>Search</h4>
                     <form method="POST" action="search.php">
@@ -12,9 +12,11 @@
                     </div>
                     </form>
                     
-                </div>
+                </div> -->
 
-
+<div class="row" style="padding: 100px;">
+      <div class="col-md-2"></div>
+    <div class="col-md-8">
 
 <div class="well">
                     <h4>Login</h4>
@@ -35,6 +37,6 @@ Submit
                     </div>
                     </form>
                 </div>
-
-               <a href="register"> <img src="image/registernow.gif" alt="HTML5 Icon" style="width:358px;height:140px;"></a>
+</div></div>
+              <!--  <a href="register"> <img src="image/registernow.gif" alt="HTML5 Icon" style="width:358px;height:140px;"></a> -->
 
