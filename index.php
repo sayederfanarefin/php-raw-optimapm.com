@@ -378,7 +378,7 @@
 									<div class="blog-content">
 										<ul class="blog-meta">
 											
-											<li><p><span class="glyphicon glyphicon-time"></span>Posted on <?php echo $postdate; ?></p></li>
+											<li><p><span class="glyphicon glyphicon-time"></span>Posted on <?php echo $post_date; ?></p></li>
 
 										</ul>
 										<a href="publicposts.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
