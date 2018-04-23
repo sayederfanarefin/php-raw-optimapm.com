@@ -359,7 +359,7 @@
               $post_id = $row['id'];
               $post_author = $row['author'];
               $post_date = $row['postdate'];
-              $post_image = "http://52.171.63.124/optima/allpostpics/" . $row['image'];
+              $post_image = "/allpostpics/" . $row['image'];
               $post_content = $row['content'];
               $post_tags = $row['tag'];
               $post_status = $row['status'];
