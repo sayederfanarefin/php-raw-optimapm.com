@@ -44,19 +44,21 @@
 		<?php include 'nav.php';?>
 
 		<!-- header wrapper -->
-		<div class="bg-grey">
+		<!-- <div class="bg-grey">
 			<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
 
 				<div class="section-header text-center" >
-					<h2 class="title" style="padding-top: 10vh;">Project Control Engineering</h2>
+					<h2 class="" style="padding-top: 10vh;">Project Control Engineering</h2>
 				</div>
 
 
 
 			</div>
-		</div>
+		</div> -->
+
+		<h2 class="text-center" style="padding: 20px;">Project Control Engineering</h2>
 	</header>
 	<!-- /header wrapper -->
 

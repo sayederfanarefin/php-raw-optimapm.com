@@ -43,18 +43,9 @@
 
 			<?php include 'nav.php';?>
 
-			<!-- header wrapper -->
-			<div class="bg-grey">
-				<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
+			
 
-
-
-					<div class="section-header text-center" >
-						<h2 class="title" style="padding-top: 10vh;">Environmental Planning</h2>
-					</div>
-
-				</div>
-			</div>
+			<h2 class="text-center" style="padding: 20px;">Environmental Planning</h2>
 			</header>
 			<!-- /header wrapper -->
 

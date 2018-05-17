@@ -46,8 +46,8 @@
 		<!-- header wrapper -->
 		<div class="bg-grey">
 			<div class="container">
-				<h2 style="text-align: center; padding-top: 10vh ">About Optima</h2>
-				<p style="text-align: center; padding-top: 50px ; padding-bottom: 100px  ">Based in Seattle, Washington, Optima have been in operation since 2014. A member of the Seattle Chamber of Commerce, Optima is a licensed engineering company in the State of Washington. We’re certified by OWMBE as DBE and MBE in Washington and certified by Caltrans as DBE in California. We have delivered engineering and management consulting projects for government agencies and multinational corporations in the US, Asia and Africa.</p>
+				<h2 style="text-align: center; padding-top: 20px ">About Optima</h2>
+				<p style="text-align: center; padding-top: 20px ; padding-bottom: 20px  ">Based in Seattle, Washington, Optima have been in operation since 2014. A member of the Seattle Chamber of Commerce, Optima is a licensed engineering company in the State of Washington. We’re certified by OWMBE as DBE and MBE in Washington and certified by Caltrans as DBE in California. We have delivered engineering and management consulting projects for government agencies and multinational corporations in the US, Asia and Africa.</p>
 			</div>
 		</div>
 		<!-- /header wrapper -->
@@ -66,8 +66,8 @@
 							</div>
 							<div class="team-content">
 								<h5>Shobuz Ikbal</h5>
-								<h6>President/ Practice Leader – Engineering
-									<br>BSc MSc PE PMP
+								<h6>President/ <br>Practice Leader – Engineering
+									<br>BSc MSc <br> PE PMP
 								</h6>
 
 							</div>
@@ -127,7 +127,7 @@
 							</div>
 							<div class="team-content">
 								<h5>Aleya Ikbal	</h5>
-								<h6>Vice President/ Practice Leader – Business Transformation
+								<h6>Vice President/ <br>Practice Leader – Business Transformation
 									<br>BBA PMP CSM
 								</h6>
 
@@ -185,7 +185,7 @@
 							</div>
 							<div class="team-content">
 								<h5>Charles Lappenbusch</h5>
-								<h6>Practice Leader – Project Control and Risk Management
+								<h6>Practice Leader <br>– Project Control and Risk Management
 									<br>MBA CCP EVP PSP
 								</h6>
 
@@ -324,7 +324,7 @@
 
 								</div>
 								<div class="team-content">
-									<h5>Gary Johnson</h5>
+									<h5>Gary Johnson<br><div style="color:#F4F4F4;">.</div></h5>
 									<h6>Senior Electro-Mechanical Engineer
 										<br>PE	
 									</h6>
@@ -448,8 +448,8 @@
 
 								</div>
 								<div class="team-content">
-									<h5>Sarah Beg</h5>
-									<h6>Practice Leader – Data Science</h6>
+									<h5>Sarah Beg <br><div style="color:#F4F4F4;">.</div></h5>
+									<h6>Practice Leader <br>- Data Science<br><div style="color:#F4F4F4;">.</div></h6>
 
 								</div>
 
@@ -506,7 +506,7 @@
 
 								</div>
 								<div class="team-content">
-									<h5>Shana Carmody</h5>
+									<h5>Shana Carmody<br><div style="color:#F4F4F4;">.</div></h5>
 									<h6>Consultant – Information Technology
 										<br>BA HIT ITIL	
 									</h6>
@@ -636,7 +636,7 @@
 								</div>
 								<div class="team-content">
 									<h5>Ron Barnhart</h5>
-									<h6>Consultant – Business Analysis</h6>
+									<h6>Consultant – <br>Business Analysis</h6>
 
 								</div>
 

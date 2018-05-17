@@ -44,7 +44,7 @@
 			<?php include 'nav.php';?>
 
 			<!-- header wrapper -->
-			<div class="bg-grey">
+			<!-- <div class="bg-grey">
 				<div class="container abc" style="padding-left: 50px;padding-right: 50px;">
 
 
@@ -57,7 +57,9 @@
 
 
 				</div>
-			</div>
+			</div> -->
+
+			<h2 class="text-center" style="padding: 20px;">Project Management</h2>
 		</header>
 		<!-- /header wrapper -->
 
