@@ -20,7 +20,7 @@
 					</div>
 
 					<!--  Main navigation  -->
-					<ul class="main-nav nav navbar-nav navbar-right">
+					<ul class="main-nav nav navbar-nav navbar-right" id="main-nav-erfan">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
 						<li class="has-dropdown"><a href="eng_services.php">Engineering Services</a>
