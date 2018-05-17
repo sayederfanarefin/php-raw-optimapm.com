@@ -77,14 +77,6 @@
 
 
 			<div class="row abc" >
-				<div class="col-md-2"></div>
-				<div class="col-md-8">
-					<img class="img-responsive" src="./img/3.jpg" alt="">
-
-
-				</div>
-			</div>
-			<div class="row abc" >
 
 				<div class="col-md-12">
 

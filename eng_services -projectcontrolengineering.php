@@ -79,25 +79,23 @@
 		<div class="col-md-10">
 
 			<div class="row abc" >
-				<div class="col-md-2">
-				</div>
-				<div class="col-md-8">
+				
+				<div class="col-md-6" style="padding-left:20px;">
 					<img class="img-responsive" src="./img/projectcontrols_hd.jpg" alt="">
 
 				</div>
-			</div>
+			
 
-			<div class="row abc" >
+				<div class="col-md-6">
 
-				<div class="col-md-12">
-
-					<p><br><br>Optima works with clients to develop, implement and maintain risk, schedule and cost controls on projects to optimize their performance. Our consultants specialize in centralized project control system for municipal and private site development including: feasibility studies, estimating, planning, waste water collection, water distribution, storm water management, roads, paving, grading, land division, surveying, construction layout, and GIS services.
+					<p>Optima works with clients to develop, implement and maintain risk, schedule and cost controls on projects to optimize their performance. Our consultants specialize in centralized project control system for municipal and private site development including: feasibility studies, estimating, planning, waste water collection, water distribution, storm water management, roads, paving, grading, land division, surveying, construction layout, and GIS services.
 
 						In working with our clients, we have developed a reputation for providing a high level of quality and reliability.  Numerous repeat clients and referrals by other professionals and regulatory agencies have been the results of our proven efficiency and effectiveness
 
 					Our consultants strive to keep abreast of advances in engineering and management techniques, utilizing the latest thinking and technology.<br></p>
 
 				</div>
+				
 
 			</div>
 

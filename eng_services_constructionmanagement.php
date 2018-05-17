@@ -56,43 +56,37 @@
 				</div>
 			</div> -->
 
-			
+
 		<h2 class="text-center" style="padding: 20px;">Construction Management</h2>
 		</header>
 		<!-- /header wrapper -->
 
-		<div class="row"  style="padding-top: 10px;" >
-			<div class="col-md-1"></div>
-
-
-
-
-			<div class="col-md-10">
-
-				<div class="row abc" >
-
-					<div class="col-md-2"></div>
-					<div class="col-md-8">
-
+		<div class="row">
+<div class="col-md-1"></div>
+			<div class="col-md-5" style="padding-right:20px;">
 
 						<img class="img-responsive" src="./img/constructionmanagement.png" alt="">
 
+			</div>
 
-					</div>
 
-				</div>
-				<div class="row abc" >
+			<div class="col-md-5">
+<div class="row abc" >
 					<div class="col-md-12">
 
-						<p><br><br>Optima provides services during the design phase in the form of constructability reviews, coordination, and scheduling, and also during the construction phase in the form of construction management, project control and inspections. Optima has a history of identifying and resolving potential difficulties during the design phase and providing quick and effective solutions during the construction phase when changes in the field arise. We also serve as the owner’s representative out in the field. Our services include:</p>
+						<p>Optima provides services during the design phase in the form of 
+							constructability reviews, coordination, and scheduling, and also 
+							during the construction phase in the form of construction management, 
+							project control and inspections. Optima has a history of identifying and 
+							resolving potential difficulties during the design phase and providing 
+							quick and effective solutions during the construction phase when 
+							changes in the field arise. We also serve as the owner’s representative
+							 out in the field. Our services include: <br><br></p>
 
 					</div>
 
-				</div>
-				<div class="row abc" >
-					<div class="col-md-2"></div>
-
-					<div class="col-md-8">
+				
+					
 						<ul>
 							<li>Providing on-site inspection of construction activities providing daily reports</li>
 							<li>Tracking/inspecting all deliveries</li>
@@ -107,16 +101,9 @@
 						</ul>
 
 
-					</div>
 
 				</div>
-
-
-
-
 			</div>
-
-
 			<div class="col-md-1"></div>
 		</div>
 

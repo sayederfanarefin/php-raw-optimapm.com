@@ -59,25 +59,25 @@
 				<div class="col-md-10">
 
 					<div class="row abc" >
-<div class="col-md-2"></div>
-						<div class="col-md-8">
+<div class="col-md-1"></div>
+						<div class="col-md-5">
 
 						
 									<img class="img-responsive" src="./img/3.jpg" alt="">
 
 </div>
-<div class="row abc" >
 
-						<div class="col-md-12">
+
+						<div class="col-md-5">
 
 
 							<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
-							<p><br><br>Environmental Planning is a decision-making process that considers the environmental, social, political, economic, and governance factors that can affect development. Its goal is to manage the relationship between natural systems and human systems in the present and the future. Optima planners, with a focus on sustainability, make sure that development projects comply with environmental laws and regulations and thus reduce impacts, facilitate environmental permitting, and write environmental reports and documents.Our planners help client to navigate the environmental review and permitting process, whether it’s local, regional or international. They review site plans and visit project sites to investigate potential environmental effects and identify needed changes. They coordinate with regulatory agencies to manage permitting issues, and ensure compliance with all environmental regulations. They also participate in public involvement meetings and give presentations to government officials to navigate through environmental due diligence process.<br><br></p>
+							<p>Environmental Planning is a decision-making process that considers the environmental, social, political, economic, and governance factors that can affect development. Its goal is to manage the relationship between natural systems and human systems in the present and the future. Optima planners, with a focus on sustainability, make sure that development projects comply with environmental laws and regulations and thus reduce impacts, facilitate environmental permitting, and write environmental reports and documents.Our planners help client to navigate the environmental review and permitting process, whether it’s local, regional or international. They review site plans and visit project sites to investigate potential environmental effects and identify needed changes. They coordinate with regulatory agencies to manage permitting issues, and ensure compliance with all environmental regulations. They also participate in public involvement meetings and give presentations to government officials to navigate through environmental due diligence process.<br><br></p>
 
 
-						</div>
+						</div><div class="col-md-1"></div>
 						
-					</div>
+				
 
 				</div>
 

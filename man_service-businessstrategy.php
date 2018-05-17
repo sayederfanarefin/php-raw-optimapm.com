@@ -58,8 +58,8 @@
 
 
 
-		<h2 class="text-center" style="padding: 20px;">Business Strategy</h2>
-		
+		<h2 class="text-center" style="padding: 10px;">Business Strategy</h2>
+
 		</header>
 		<!-- /header wrapper -->
 

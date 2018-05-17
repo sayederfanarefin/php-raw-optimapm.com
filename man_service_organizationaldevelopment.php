@@ -60,7 +60,7 @@
 			</div> -->
 
 			<h2 class="text-center" style="padding: 20px;">Organizational Development</h2>
-			
+
 			</header>
 			<!-- /header wrapper -->
 
@@ -69,16 +69,13 @@
 
 			<!-- right -->
 
-<div class="row" >
-				<div class="col-md-1"></div>
+
+			
 
 
 
+					<div class="row abc" style="padding-left:40px; padding-right:40px;">
 
-				<div class="col-md-10">
-
-					<div class="row abc" >
-<div class="col-md-3"></div>
 						<div class="col-md-6">
 <img class="img-responsive" src="./img/management/Organizational_Development/3.jpg" alt="">
 
@@ -86,11 +83,10 @@
 
 							
 						</div>
-</div>
-<div class="row abc" >
 
 
-						<div class="col-md-12" style="padding-top: 10px;">
+
+						<div class="col-md-6" >
 
 <p>Organizational Development (OD) is necessary when an organization recognizes that a problem exists which affects the mission or health of the organization and change is desired. OD can also be undertaken when leadership has a vision of a better way and wants to improve the organization. An organization does not always have to be in trouble to implement organization development activities.
 
@@ -105,18 +101,6 @@ During and after the implementation of the intervention, relevant data is gather
 						</div>
 						
 					</div>
-
-
-
-
-				</div>
-
-
-				<div class="col-md-1"></div>
-			</div>
-
-<!-- eight end-->
-
 
 
 

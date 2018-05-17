@@ -64,24 +64,30 @@
 
 
 			<div class="row abc" >
-				<div class="col-md-3"></div>
-				<div class="col-md-6">
-
-					
-							<img class="img-responsive" src="./img/des.png" alt="">
-
-						
-				</div>
+				
 
 				<div class="row abc" >
-					<div class="col-md-12">
 
-						<p><br>Optima has highly experienced civil engineers to provide planning, design, and permitting services for municipal and private development projects. We help our clients take projects from the initial stage to implementation. Optima has a history of identifying and resolving potential difficulties during the design phase and providing effective solutions to optimize project results. Our services in design and engineering include:</p>
+
+					<div class="col-md-6">
+
+						<img class="img-responsive" style="max-height:250px;  display:block;
+    margin:auto;"  src="./img/des.png" alt="">
+
+					</div>
+
+					<div class="col-md-5">
+								<p><br>Optima has highly experienced civil engineers to provide planning, design, and permitting services for municipal and private development projects. We help our clients take projects from the initial stage to implementation. Optima has a history of identifying and resolving potential difficulties during the design phase and providing effective solutions to optimize project results. Our services in design and engineering include:</p>
 
 
 					</div>
 
 				</div>
+
+
+
+
+
 
 				<div class="row abc" >
 

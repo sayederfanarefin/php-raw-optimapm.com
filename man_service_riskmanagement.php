@@ -58,7 +58,7 @@
 				</div>
 			</div> -->
 
-			<h2 class="text-center" style="padding: 20px;">Risk Management</h2>
+			<h2 class="text-center" style="padding: 10px;">Risk Management</h2>
 		</header>
 		<!-- /header wrapper -->
 
@@ -68,7 +68,7 @@
 		<div class="row" >
 
 
-			<p>&nbsp;</p><p>&nbsp;</p>
+		
 			<div class="col-md-1"></div>
 
 
