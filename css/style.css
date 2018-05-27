@@ -1767,8 +1767,8 @@ header {
 }
 
 #main-nav-erfan a {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 40px;
   padding-bottom: 40px;
   display: block;
@@ -1779,4 +1779,9 @@ header {
 #main-nav-erfan a:hover {
   background-color: #82ACFD;
   color:white;
+}
+
+#custom-sub-menu-less-height a {
+     padding-top: 10px;
+  padding-bottom: 10px;
 }

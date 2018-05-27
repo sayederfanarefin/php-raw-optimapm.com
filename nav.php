@@ -24,7 +24,7 @@
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About</a></li>
 						<li class="has-dropdown"><a href="eng_services.php">Engineering Services</a>
-							<ul class="dropdown" style="background-color: grey; ">
+							<ul class="dropdown" style="background-color: grey; " id="custom-sub-menu-less-height">
 								<li><a href="eng_services_constructionmanagement.php">Construction Management</a></li>
 								<li><a href="eng_services_designengineering.php">Design Engineering</a></li>
 								<li><a href="eng_services_environmentalplanning.php">Environmental Planning</a></li>
@@ -35,7 +35,7 @@
 
 
 						<li class="has-dropdown"><a href="man_service.php">Management Consultancy</a>
-							<ul class="dropdown" style="background-color: grey; ">
+							<ul class="dropdown" style="background-color: grey;" id="custom-sub-menu-less-height">
 								<li><a href="man_service-businessstrategy.php">Business Strategy</a></li>
 
 								<li><a href="man_service_executivetrainingprogram.php">Executive Training Program</a></li>
