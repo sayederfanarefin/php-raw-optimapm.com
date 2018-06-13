@@ -96,7 +96,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 /* Set a style for all buttons */
-button {
+.buttonSubscribe {
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
@@ -107,7 +107,7 @@ button {
     opacity: 0.9;
 }
 
-button:hover {
+.buttonSubscribe :hover {
     opacity:1;
 }
 
@@ -129,7 +129,7 @@ button:hover {
 }
 
 /* The Modal (background) */
-.modal {
+.modal2 {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
@@ -143,7 +143,7 @@ button:hover {
 }
 
 /* Modal Content/Box */
-.modal-content {
+.modal2-content {
     background-color: #fefefe;
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
@@ -187,9 +187,9 @@ hr {
 }
 </style>
 
-			<div id="id01" class="modal">
+			<div id="id01" class="modal2">
   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-  <form class="modal-content" action="subscribe.php" method="post">
+  <form class="modal2-content" action="subscribe.php" method="post">
     <div class="container">
       <h2>Subscribe</h2>
     
@@ -198,8 +198,8 @@ hr {
 
      
       <div class="clearfix">
-        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-        <button type="submit" class="signupbtn">Subscribe</button>
+        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="buttonSubscribe cancelbtn">Cancel</button>
+        <button type="submit" class="buttonSubscribe signupbtn">Subscribe</button>
       </div>
     </div>
   </form>

@@ -127,16 +127,7 @@ E-mail: <a href="mailto:a.ikbal@optimapm.com" target="_top">a.ikbal@optimapm.com
 		<div id="back-to-top"></div>
 		<!-- /Back to top -->
 
-		<!-- Preloader -->
-		<div id="preloader">
-			<div class="preloader">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-			</div>
-		</div>
-		<!-- /Preloader -->
+		
 
 		<!-- jQuery Plugins -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
