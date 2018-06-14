@@ -86,7 +86,8 @@
 
 					<div class="col-md-6">
 
-						<p><br>Risk management is the way toward recognizing, surveying and controlling threats to an organization. These dangers, or risks, could come from a wide assortment of sources, financial uncertainty, legal liabilities, strategic management errors, accidents and natural disasters. Recently internet security threats and data-related risks, and the risk management strategies to alleviate them, have become a top priority.</p>
+						<p style="text-align: justify;
+    text-justify: inter-word;"><br>Risk management is the way toward recognizing, surveying and controlling threats to an organization. These dangers, or risks, could come from a wide assortment of sources, financial uncertainty, legal liabilities, strategic management errors, accidents and natural disasters. Recently internet security threats and data-related risks, and the risk management strategies to alleviate them, have become a top priority.</p>
 
 
 					</div>
@@ -143,12 +144,14 @@
 <p>&nbsp;</p>
 								<h5>Risk management approaches</h5>
 
-								<p>After the company&#8217;s specific risks are identified and the risk management process has been implemented, there are several different strategies companies can take in regard to different types of risk:</p>
+								<p style="text-align: justify;
+    text-justify: inter-word;">After the company&#8217;s specific risks are identified and the risk management process has been implemented, there are several different strategies companies can take in regard to different types of risk:</p>
 
 </div>
 
 
-							<div class="col-md-6">
+							<div class="col-md-6" style="text-align: justify;
+    text-justify: inter-word;">
 
 
 
@@ -190,7 +193,8 @@
 
 							</div>
 
-							<div class="col-md-6">
+							<div class="col-md-6" style="text-align: justify;
+    text-justify: inter-word;">
 
 								
 								<h5>Risk sharing:</h5>Sometimes, the consequences of a risk is shared, or distributed among several of the project&#8217;s participants or business departments. The risk could also be shared with a third party, such as a <a href="http://whatis.techtarget.com/definition/vendor">vendor</a> or business partner.

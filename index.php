@@ -171,14 +171,14 @@
 
 						<!-- Section header -->
 						<div class="section-header text-center" >
-							<h2 class="title" style="color: white; font-size: medium">About Us</h2>
+							<h2 class="title" style="color: white; ">About Us</h2>
 						</div>
 						<!-- /Section header -->
 
 
 						<!-- service -->
 						<div class="col-md-12 col-sm-12">
-							<p style="text-align: center; color: white; font-size: small;">Optima specializes in engineering and management consulting for businesses and organizations that want to achieve optimum results and reach a higher level in their industry. We help our clients make significant and lasting improvements to realize their most important goals. We equip organizations with tools and strategies that enable them to compete locally and globally. We are unequally positioned to provide this service with a resource pool of practice leaders and specialist consultants from around the world who are best in their field.</p>
+							<p id="justepy" style="color: white; ">Optima specializes in engineering and management consulting for businesses and organizations that want to achieve optimum results and reach a higher level in their industry. We help our clients make significant and lasting improvements to realize their most important goals. We equip organizations with tools and strategies that enable them to compete locally and globally. We are unequally positioned to provide this service with a resource pool of practice leaders and specialist consultants from around the world who are best in their field.</p>
 							
 							
 
@@ -201,7 +201,7 @@
 					<div class="row">
 
 						<div class="section-header text-center" >
-								<h2 class="title" style="color: white; font-size: medium;">Why choose Optima?</h2>
+								<h2 class="title" style="color: white; ">Why choose Optima?</h2>
 							</div>
 
 							
@@ -211,7 +211,7 @@
 											<i class="fa fa-check"></i>
 										</div>
 										<div class="col-md-10">
-											<p style="text-align: center; color: white; font-size: small;">
+											<p id="justepy" style="color: white;">
 												Optima has over 120 years of combined professional experience in managing projects locally and internationally.</p>
 											</div>
 										</div>
@@ -224,7 +224,7 @@
 												<i class="fa fa-check"></i>
 											</div>
 											<div class="col-md-10">
-												<p style="text-align: center; color: white; font-size: small;">
+												<p id="justepy" style="color: white;">
 													We've worked with some of the largest government and corporate clients such as City of Seattle, City of Los Angeles, King County Washington, World Bank, T-Mobile USA, ​SAP and more</p>
 												</div>
 											</div>
@@ -238,7 +238,7 @@
 													<i class="fa fa-check"></i>
 												</div>
 												<div class="col-md-10">
-													<p style="text-align: center; color: white; font-size: small;">
+													<p id="justepy" style="color: white; ">
 														The unique approach we take is to align the strategy and resources of the organization to a common vision of the future to optimize the potential of the organization.</p>
 													</div>
 												</div>
@@ -251,7 +251,7 @@
 														<i class="fa fa-check"></i>
 													</div>
 													<div class="col-md-10">
-														<p style="text-align: center; color: white; font-size: small;">
+														<p id="justepy" style="color: white; ">
 															Our consultants apply the most cutting edge thinking in business management and adopt the latest technology to help clients make quantum leap forward.</p>
 														</div>
 													</div>

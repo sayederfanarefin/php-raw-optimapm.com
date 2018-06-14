@@ -74,7 +74,8 @@
 <div class="row abc" >
 					<div class="col-md-12">
 
-						<p>Optima provides services during the design phase in the form of 
+						<p  style="text-align: justify;
+    text-justify: inter-word;">Optima provides services during the design phase in the form of 
 							constructability reviews, coordination, and scheduling, and also 
 							during the construction phase in the form of construction management, 
 							project control and inspections. Optima has a history of identifying and 

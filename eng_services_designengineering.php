@@ -77,7 +77,8 @@
 					</div>
 
 					<div class="col-md-5">
-								<p><br>Optima has highly experienced civil engineers to provide planning, design, and permitting services for municipal and private development projects. We help our clients take projects from the initial stage to implementation. Optima has a history of identifying and resolving potential difficulties during the design phase and providing effective solutions to optimize project results. Our services in design and engineering include:</p>
+								<p id="justepy"  style="text-align: justify;
+    text-justify: inter-word;"><br>Optima has highly experienced civil engineers to provide planning, design, and permitting services for municipal and private development projects. We help our clients take projects from the initial stage to implementation. Optima has a history of identifying and resolving potential difficulties during the design phase and providing effective solutions to optimize project results. Our services in design and engineering include:</p>
 
 
 					</div>
