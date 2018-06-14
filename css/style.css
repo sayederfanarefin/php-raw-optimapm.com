@@ -301,6 +301,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     -webkit-transition: 0.2s padding;
     transition: 0.2s padding;
     z-index: 999;
+
+    
 }
 
 #nav.navbar {
