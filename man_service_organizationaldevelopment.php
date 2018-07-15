@@ -88,7 +88,8 @@
 
 						<div class="col-md-6" >
 
-<p>Organizational Development (OD) is necessary when an organization recognizes that a problem exists which affects the mission or health of the organization and change is desired. OD can also be undertaken when leadership has a vision of a better way and wants to improve the organization. An organization does not always have to be in trouble to implement organization development activities.
+<p style="text-align: justify;
+    text-justify: inter-word;">Organizational Development (OD) is necessary when an organization recognizes that a problem exists which affects the mission or health of the organization and change is desired. OD can also be undertaken when leadership has a vision of a better way and wants to improve the organization. An organization does not always have to be in trouble to implement organization development activities.
 
 Organizational Development process begins with careful organization-wide assessment and analysis of the present circumstance and of the future requirements. This assessment can be conducted in many ways including documentation review, organizational sensing, focus groups, interviewing, or surveying. The assessment could be conducted by outside experts or by members of the organization. After the situation is assessed, defined, and understood, the next step is to plan an intervention.
 
@@ -116,16 +117,7 @@ During and after the implementation of the intervention, relevant data is gather
 				<div id="back-to-top"></div>
 				<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+			
 
 				<!-- jQuery Plugins -->
 				<script type="text/javascript" src="js/jquery.min.js"></script>

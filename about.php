@@ -47,7 +47,7 @@
 		<div class="bg-grey">
 			<div class="container">
 				<h2 style="text-align: center; padding-top: 20px ">About Optima</h2>
-				<p style="text-align: center; padding-top: 20px ; padding-bottom: 20px  ">Based in Seattle, Washington, Optima have been in operation since 2014. A member of the Seattle Chamber of Commerce, Optima is a licensed engineering company in the State of Washington. We’re certified by OWMBE as DBE and MBE in Washington and certified by Caltrans as DBE in California. We have delivered engineering and management consulting projects for government agencies and multinational corporations in the US, Asia and Africa.</p>
+				<p id="justepy" style=" padding-top: 20px ; padding-bottom: 20px  ">Based in Seattle, Washington, Optima have been in operation since 2014. A member of the Seattle Chamber of Commerce, Optima is a licensed engineering company in the State of Washington. We’re certified by OWMBE as DBE and MBE in Washington and certified by Caltrans as DBE in California. We have delivered engineering and management consulting projects for government agencies and multinational corporations in the US, Asia and Africa.</p>
 			</div>
 		</div>
 		<!-- /header wrapper -->
@@ -789,16 +789,7 @@
 		<div id="back-to-top"></div>
 		<!-- /Back to top -->
 
-		<!-- Preloader -->
-		<div id="preloader">
-			<div class="preloader">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-			</div>
-		</div>
-		<!-- /Preloader -->
+		
 
 		<!-- jQuery Plugins -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>

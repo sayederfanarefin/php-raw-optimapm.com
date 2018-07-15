@@ -90,7 +90,8 @@
 			<div class="row abc" >
 				<div class="col-md-12">
 
-					<p><br>The Executive Training Program is designed to increase the business skills and leadership capabilities of managers who lead to key divisions of the companies and aspire to be among top leadership in the organizations. EDP takes a multidimensional approach to learning, combining lectures, small/large group discussion, case study, role playing, campus networking opportunities and a strategy simulation to provide new insights and give you opportunities to apply them. During the program you will:</p>
+					<p style="text-align: justify;
+    text-justify: inter-word;"><br>The Executive Training Program is designed to increase the business skills and leadership capabilities of managers who lead to key divisions of the companies and aspire to be among top leadership in the organizations. EDP takes a multidimensional approach to learning, combining lectures, small/large group discussion, case study, role playing, campus networking opportunities and a strategy simulation to provide new insights and give you opportunities to apply them. During the program you will:</p>
 
 
 				</div>
@@ -117,7 +118,8 @@
 			<div class="row abc" >
 				<div class="col-md-12">
 
-					<p><br><br>A team of faculty and experts from diverse business disciplines provide in-depth knowledge in core business areas including finance, strategy, leadership, marketing, organizational dynamics, and globalization. Class sessions are designed to capture the years of experience in the room. Learning groups provide opportunities for exploring issues across business and cultural boundaries, and social activities promote a spirited camaraderie that leads to deep and lasting connections.</p>
+					<p style="text-align: justify;
+    text-justify: inter-word;"><br><br>A team of faculty and experts from diverse business disciplines provide in-depth knowledge in core business areas including finance, strategy, leadership, marketing, organizational dynamics, and globalization. Class sessions are designed to capture the years of experience in the room. Learning groups provide opportunities for exploring issues across business and cultural boundaries, and social activities promote a spirited camaraderie that leads to deep and lasting connections.</p>
 				</div>
 			</div>
 
@@ -171,16 +173,7 @@
 	<div id="back-to-top"></div>
 	<!-- /Back to top -->
 
-	<!-- Preloader -->
-	<div id="preloader">
-		<div class="preloader">
-			<span></span>
-			<span></span>
-			<span></span>
-			<span></span>
-		</div>
-	</div>
-	<!-- /Preloader -->
+	
 
 	<!-- jQuery Plugins -->
 	<script type="text/javascript" src="js/jquery.min.js"></script>

@@ -55,7 +55,8 @@
 
 
 
-					<p>Management consultants help businesses improve their performance and grow by solving problems and finding new and better ways of doing things. It  help businesses aspire not in just numbers but also through excellence by having unique operational strategies. We aim at shaping your business into an optimum level by resolving challenging issues, creating values for growth maximization and by providing distinctive ideas that can keep your business ahead of the crowd.
+					<p style="text-align: justify;
+    text-justify: inter-word;">Management consultants help businesses improve their performance and grow by solving problems and finding new and better ways of doing things. It  help businesses aspire not in just numbers but also through excellence by having unique operational strategies. We aim at shaping your business into an optimum level by resolving challenging issues, creating values for growth maximization and by providing distinctive ideas that can keep your business ahead of the crowd.
 
 
 
@@ -153,16 +154,7 @@
 				<div id="back-to-top"></div>
 				<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+				
 
 				<!-- jQuery Plugins -->
 				<script type="text/javascript" src="js/jquery.min.js"></script>

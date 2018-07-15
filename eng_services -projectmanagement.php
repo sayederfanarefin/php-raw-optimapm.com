@@ -75,7 +75,8 @@
 			<div class="col-md-5">
 
 						<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
-						<p>The successful project management service offered by Optima concentrates on the three prime issues: time, cost, and quality, ensuring a coherent structure for managing all three. The principles behind the successful delivery of on-time projects embrace the following fundamental aspects:</p>
+						<p style="text-align: justify;
+    text-justify: inter-word;">The successful project management service offered by Optima concentrates on the three prime issues: time, cost, and quality, ensuring a coherent structure for managing all three. The principles behind the successful delivery of on-time projects embrace the following fundamental aspects:</p>
 
 
 						<ul>
@@ -110,16 +111,7 @@
 		<div id="back-to-top"></div>
 		<!-- /Back to top -->
 
-		<!-- Preloader -->
-		<div id="preloader">
-			<div class="preloader">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-			</div>
-		</div>
-		<!-- /Preloader -->
+		
 
 		<!-- jQuery Plugins -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>

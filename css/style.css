@@ -301,6 +301,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     -webkit-transition: 0.2s padding;
     transition: 0.2s padding;
     z-index: 999;
+
+    
 }
 
 #nav.navbar {
@@ -1784,4 +1786,10 @@ header {
 #custom-sub-menu-less-height a {
      padding-top: 10px;
   padding-bottom: 10px;
+}
+
+
+#justepy {
+    text-align: justify;
+    text-justify: inter-word;
 }

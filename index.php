@@ -156,43 +156,44 @@
 
 
 <!-- about us -->
-			<div class="section md-padding" style="background-color: #00305B;">
+			<div class="section" style="background-color: #00305B;">
 
 				<!-- Container -->
-				<div class="container" style="padding-top: 20px;padding-bottom: 20px;padding-left: 50px;padding-right: 50px;">
+				<div class="container" style="padding-top: 10px;padding-bottom: 10px;padding-left: 20px;padding-right: 20px;">
 
 <div class="row">
-<div class="col-md-5 col-sm-5">
+<div class="col-md-6 col-sm-6" style="border-right: 3px solid white; padding-top: 20px; padding-bottom: 20px;">
 
-
-
-<!-- Row -->
 					<div class="row" style="padding-bottom: 60px;">
 
 						<!-- Section header -->
 						<div class="section-header text-center" >
-							<h2 class="title" style="color: white; font-size: medium">About Us</h2>
+							<h2 class="title" style="color: white; ">About Us</h2>
 						</div>
 						<!-- /Section header -->
 
 
 						<!-- service -->
-						<div class="col-md-12 col-sm-12">
-							<p style="text-align: center; color: white; font-size: small;">Optima specializes in engineering and management consulting for businesses and organizations that want to achieve optimum results and reach a higher level in their industry. We help our clients make significant and lasting improvements to realize their most important goals. We equip organizations with tools and strategies that enable them to compete locally and globally. We are unequally positioned to provide this service with a resource pool of practice leaders and specialist consultants from around the world who are best in their field.</p>
+						<div class="col-md-12 col-sm-12"  style="padding-bottom: 20px;">
+							<p  style="text-align: justify;
+    text-justify: inter-word; color: white; ">Optima specializes in engineering and management consulting for businesses and organizations that want to achieve optimum results and reach a higher level in their industry. We help our clients make significant and lasting improvements to realize their most important goals. We equip organizations with tools and strategies that enable them to compete locally and globally. We are unequally positioned to provide this service with a resource pool of practice leaders and specialist consultants from around the world who are best in their field.</p>
 							
 							
 
 
 						</div>
 						<!-- /service -->
+<div align="center">
 
+								<a href="about.php" class="main-btn">Learn more</a>
+							</div>
 					</div>
 					<!-- /Row -->
 
 
 </div>
 
-<div class="col-md-7 col-sm-7">
+<div class="col-md-6 col-sm-6" style="padding-top: 20px; padding-bottom: 20px;">
 	
 	<div class="row">
 
@@ -201,7 +202,7 @@
 					<div class="row">
 
 						<div class="section-header text-center" >
-								<h2 class="title" style="color: white; font-size: medium;">Why choose Optima?</h2>
+								<h2 class="title" style="color: white; ">Why choose Optima?</h2>
 							</div>
 
 							
@@ -211,7 +212,8 @@
 											<i class="fa fa-check"></i>
 										</div>
 										<div class="col-md-10">
-											<p style="text-align: center; color: white; font-size: small;">
+											<p  style="text-align: justify;
+    text-justify: inter-word; color: white;">
 												Optima has over 120 years of combined professional experience in managing projects locally and internationally.</p>
 											</div>
 										</div>
@@ -224,7 +226,8 @@
 												<i class="fa fa-check"></i>
 											</div>
 											<div class="col-md-10">
-												<p style="text-align: center; color: white; font-size: small;">
+												<p  style="text-align: justify;
+    text-justify: inter-word; color: white;">
 													We've worked with some of the largest government and corporate clients such as City of Seattle, City of Los Angeles, King County Washington, World Bank, T-Mobile USA, ​SAP and more</p>
 												</div>
 											</div>
@@ -238,7 +241,8 @@
 													<i class="fa fa-check"></i>
 												</div>
 												<div class="col-md-10">
-													<p style="text-align: center; color: white; font-size: small;">
+													<p  style="text-align: justify;
+    text-justify: inter-word; color: white; ">
 														The unique approach we take is to align the strategy and resources of the organization to a common vision of the future to optimize the potential of the organization.</p>
 													</div>
 												</div>
@@ -251,7 +255,8 @@
 														<i class="fa fa-check"></i>
 													</div>
 													<div class="col-md-10">
-														<p style="text-align: center; color: white; font-size: small;">
+														<p  style="text-align: justify;
+    text-justify: inter-word;color: white; ">
 															Our consultants apply the most cutting edge thinking in business management and adopt the latest technology to help clients make quantum leap forward.</p>
 														</div>
 													</div>
@@ -270,19 +275,6 @@
 
 </div>
 					
-
-
-
-					
-
-
-
-
-									<div align="center" style="padding-top: 20px;">
-
-
-								<a href="about.php" class="main-btn">Learn more</a>
-							</div>
 
 				</div>
 				<!-- /Container -->
@@ -459,16 +451,7 @@
 				<div id="back-to-top"></div>
 				<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+				
 
 				<!-- jQuery Plugins -->
 				<script type="text/javascript" src="js/jquery.min.js"></script>

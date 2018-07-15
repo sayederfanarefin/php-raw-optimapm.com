@@ -72,7 +72,8 @@
 
 
 							<!-- <h3><strong><u>Construction Management</u></strong></h3> -->
-							<p>Environmental Planning is a decision-making process that considers the environmental, social, political, economic, and governance factors that can affect development. Its goal is to manage the relationship between natural systems and human systems in the present and the future. Optima planners, with a focus on sustainability, make sure that development projects comply with environmental laws and regulations and thus reduce impacts, facilitate environmental permitting, and write environmental reports and documents.Our planners help client to navigate the environmental review and permitting process, whether it’s local, regional or international. They review site plans and visit project sites to investigate potential environmental effects and identify needed changes. They coordinate with regulatory agencies to manage permitting issues, and ensure compliance with all environmental regulations. They also participate in public involvement meetings and give presentations to government officials to navigate through environmental due diligence process.<br><br></p>
+							<p id="justepy" style="text-align: justify;
+    text-justify: inter-word;">Environmental Planning is a decision-making process that considers the environmental, social, political, economic, and governance factors that can affect development. Its goal is to manage the relationship between natural systems and human systems in the present and the future. Optima planners, with a focus on sustainability, make sure that development projects comply with environmental laws and regulations and thus reduce impacts, facilitate environmental permitting, and write environmental reports and documents.Our planners help client to navigate the environmental review and permitting process, whether it’s local, regional or international. They review site plans and visit project sites to investigate potential environmental effects and identify needed changes. They coordinate with regulatory agencies to manage permitting issues, and ensure compliance with all environmental regulations. They also participate in public involvement meetings and give presentations to government officials to navigate through environmental due diligence process.<br><br></p>
 
 
 						</div><div class="col-md-1"></div>
@@ -100,16 +101,7 @@
 				<div id="back-to-top"></div>
 				<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+				
 
 				<!-- jQuery Plugins -->
 				<script type="text/javascript" src="js/jquery.min.js"></script>

@@ -55,7 +55,8 @@
 
 
 
-					<p>
+					<p style="text-align: justify;
+    text-justify: inter-word;">
 
 						Optima serves government agencies, private clients and prime contractors with a full range of engineering services.  Our commitment to providing the highest caliber service to our clients is reflected in our project experiences in Asia, Africa, Europe and the USA.
 
@@ -171,16 +172,7 @@
 				<div id="back-to-top"></div>
 				<!-- /Back to top -->
 
-				<!-- Preloader -->
-				<div id="preloader">
-					<div class="preloader">
-						<span></span>
-						<span></span>
-						<span></span>
-						<span></span>
-					</div>
-				</div>
-				<!-- /Preloader -->
+				
 
 				<!-- jQuery Plugins -->
 				<script type="text/javascript" src="js/jquery.min.js"></script>
