@@ -30,19 +30,31 @@
 <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="index" class="active"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
+                        <a href="index.php" class="active"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
                     </li>
 
                    <li>
-                        <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#posts"><i class="fa fa-fw fa-file-text"></i> Posts <i class="fa fa-fw fa-caret-down"></i></a>
+                        <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#posts"><i class="fa fa-fw fa-file-text"></i> News <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="posts" class="collapse">
                             <li>
-                                <a href="./posts.php">View All Posts</a>
+                                <a href="./posts.php">View All News</a>
                             </li>
                             <li>
-                                <a href="./publishnews.php">Add New Post</a>
+                                <a href="./publishnews.php">Add New News</a>
                             </li>
                         </ul>
+
+                        <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#ex"><i class="fa fa-fw fa-file-text"></i> Experience <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="ex" class="collapse">
+                            <li>
+                                <a href="./experiences.php">View All Experiences</a>
+                            </li>
+                            <li>
+                                <a href="./publishExperience.php">Add New Experience</a>
+                            </li>
+                        </ul>
+
+
                         <li>
                          <a href="javascript:;" data-toggle="collapse" data-target="#user"><i class="fa fa-fw fa-users"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="user" class="collapse">

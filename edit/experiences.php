@@ -12,9 +12,9 @@
                     <div class="col-lg-12">
                         <h1 class="page-header">
                         <div class="col-xs-4">
-            <a href="publishnews.php" class="btn btn-primary">Add New</a>
+            <a href="publishExperience.php" class="btn btn-primary">Add New</a>
             </div>
-                            ALL NEWS
+                            ALL EXPERIENCES
                         </h1>
                          
 
@@ -47,7 +47,7 @@
 
                  <?php
 
-$query = "SELECT * FROM posts ORDER BY id DESC";
+$query = "SELECT * FROM experience ORDER BY id DESC";
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0) {
 while ($row = mysqli_fetch_array($run_query)) {
@@ -79,7 +79,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 else {
     echo "<script>alert('Not any news yet! Start Posting now');
-    window.location.href= 'publishnews.php';</script>";
+    window.location.href= 'publishExperience.php';</script>";
 }
 ?>
 
@@ -94,7 +94,7 @@ else {
  <?php
     if (isset($_GET['del'])) {
         $post_del = mysqli_real_escape_string($conn, $_GET['del']);
-        $del_query = "DELETE FROM posts WHERE id='$post_del'";
+        $del_query = "DELETE FROM experience WHERE id='$post_del'";
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('post deleted successfully');
@@ -106,7 +106,7 @@ else {
         }
         if (isset($_GET['pub'])) {
         $post_pub = mysqli_real_escape_string($conn,$_GET['pub']);
-        $pub_query = "UPDATE posts SET status='published' WHERE id='$post_pub'";
+        $pub_query = "UPDATE experience SET status='published' WHERE id='$post_pub'";
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('post published successfully');
@@ -149,7 +149,7 @@ else if($_SESSION['role'] == 'admin') {
 
                  <?php
 $currentuser = $_SESSION['firstname'];
-$query = "SELECT * FROM posts WHERE author = '$currentuser' ORDER BY id DESC";
+$query = "SELECT * FROM experience WHERE author = '$currentuser' ORDER BY id DESC";
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0) {
 while ($row = mysqli_fetch_array($run_query)) {
@@ -181,7 +181,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 else {
     echo "<script>alert('You have not posted any news yet! Start Posting now');
-    window.location.href= 'publishnews.php';</script>";
+    window.location.href= 'publishExperience.php';</script>";
 }
 ?>
 
@@ -196,11 +196,11 @@ else {
  <?php
     if (isset($_GET['del'])) {
         $post_del = mysqli_real_escape_string($conn, $_GET['del']);
-        $del_query = "DELETE FROM posts WHERE id='$post_del'";
+        $del_query = "DELETE FROM experience WHERE id='$post_del'";
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
-            echo "<script>alert('post deleted successfully');
-            window.location.href='posts.php';</script>";
+            echo "<script>alert('experience deleted successfully');
+            window.location.href='experiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
@@ -208,11 +208,11 @@ else {
         }
         if (isset($_GET['pub'])) {
         $post_pub = mysqli_real_escape_string($conn,$_GET['pub']);
-        $pub_query = "UPDATE posts SET status='published' WHERE id='$post_pub'";
+        $pub_query = "UPDATE experience SET status='published' WHERE id='$post_pub'";
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
-            echo "<script>alert('post published successfully');
-            window.location.href='posts.php';</script>";
+            echo "<script>alert('experience published successfully');
+            window.location.href='experiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
@@ -247,7 +247,7 @@ else {
                  <?php
                  $currentuser = $_SESSION['firstname'];
 
-$query = "SELECT * FROM posts WHERE author = '$currentuser' ORDER BY id DESC";
+$query = "SELECT * FROM experience WHERE author = '$currentuser' ORDER BY id DESC";
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0) {
 while ($row = mysqli_fetch_array($run_query)) {
@@ -266,16 +266,16 @@ while ($row = mysqli_fetch_array($run_query)) {
     echo "<td><img  width='100' src='../allpostpics/$post_image' alt='Post Image' ></td>";
     echo "<td>$post_tags</td>";
     echo "<td>$post_date</td>";
-    echo "<td><a href='post.php?post=$post_id' style='color:green'>See Post</a></td>";
+    echo "<td><a href='post.php?post=$post_id' style='color:green'>See experience</a></td>";
     echo "<td><a href='editposts.php?id=$post_id'><span class='glyphicon glyphicon-edit' style='color: #265a88;'></span></a></td>";
-    echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete this post?')\" href='?del=$post_id'><i class='fa fa-times' style='color: red;'></i>delete</a></td>";
+    echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete this experience?')\" href='?del=$post_id'><i class='fa fa-times' style='color: red;'></i>delete</a></td>";
 
     echo "</tr>";
 
 }
 }
 else {
-    echo "<script>alert('You have not posted any news yet! Start Posting now');
+    echo "<script>alert('You have not posted any experiences yet! Start Posting now');
     window.location.href= 'publishnews.php';</script>";
 }
 ?>
@@ -288,11 +288,11 @@ else {
 <?php
     if (isset($_GET['del'])) {
         $post_del = mysqli_real_escape_string($conn , $_GET['del']);
-        $del_query = "DELETE FROM posts WHERE id='$post_del' AND author='$currentuser'";
+        $del_query = "DELETE FROM experience WHERE id='$post_del' AND author='$currentuser'";
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
-            echo "<script>alert('post deleted successfully');
-            window.location.href='posts.php';</script>";
+            echo "<script>alert('experience deleted successfully');
+            window.location.href='experiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
