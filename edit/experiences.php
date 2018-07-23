@@ -78,7 +78,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 }
 else {
-    echo "<script>alert('Not any news yet! Start Posting now');
+    echo "<script>alert('Not any experience yet! Start Posting now');
     window.location.href= 'publishExperience.php';</script>";
 }
 ?>
@@ -109,8 +109,8 @@ else {
         $pub_query = "UPDATE experience SET status='published' WHERE id='$post_pub'";
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
-            echo "<script>alert('post published successfully');
-            window.location.href='posts.php';</script>";
+            echo "<script>alert('Experience published successfully');
+            window.location.href='experiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
@@ -139,7 +139,7 @@ else if($_SESSION['role'] == 'admin') {
                         <th>Image</th>
                         <th>Tags</th>
                         <th>Date</th>
-                        <th>View Post</th>
+                        <th>View Experience</th>
                         <th>Edit</th>
                         <th>Delete</th>
                         <th>Publish</th>
@@ -180,7 +180,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 }
 else {
-    echo "<script>alert('You have not posted any news yet! Start Posting now');
+    echo "<script>alert('You have not posted any experience yet! Start Posting now');
     window.location.href= 'publishExperience.php';</script>";
 }
 ?>
@@ -276,7 +276,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 else {
     echo "<script>alert('You have not posted any experiences yet! Start Posting now');
-    window.location.href= 'publishnews.php';</script>";
+    window.location.href= 'publishExperience.php';</script>";
 }
 ?>
  </tbody>

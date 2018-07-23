@@ -49,8 +49,8 @@ echo "<script>alert('Image size is not proper');</script>";
             $query = "INSERT INTO experience (title,author,postdate,image,content,status,tag) VALUES ('$post_title' , '$post_author' , '$post_date' , '$picture' , '$post_content' , '$post_status', '$post_tag') ";
             $result = mysqli_query($conn , $query) or die(mysqli_error($conn));
             if (mysqli_affected_rows($conn) > 0) {
-                echo "<script> alert('News posted successfully.It will be published after admin approves it');
-                window.location.href='posts.php';</script>";
+                echo "<script> alert('Experience posted successfully.It will be published after admin approves it');
+                window.location.href='experiences.php';</script>";
             }
             else {
                 "<script> alert('Error while posting..try again');</script>";
@@ -64,24 +64,24 @@ echo "<script>alert('Image size is not proper');</script>";
 <form role="form" action="" method="POST" enctype="multipart/form-data">
 
     <div class="form-group">
-        <label for="post_title">Post Title</label>
+        <label for="post_title">Experience Title</label>
         <input type="text" name="title" placeholder = "ENTER TITLE " value= "<?php if(isset($_POST['publish'])) { echo $post_title; } ?>"  class="form-control" required>
     </div>
 
     
     <div class="form-group">
-        <label for="post_image">Post Image </label> <font color='brown' > &nbsp;&nbsp;(Allowed image size: 1024 KB) </font> 
+        <label for="post_image">Experience Image </label> <font color='brown' > &nbsp;&nbsp;(Allowed image size: 1024 KB) </font> 
         <input type="file" name="image" >
     </div>
     <div class="form-group">
-        <label for="post_tag">Post Tags</label>
+        <label for="post_tag">Experience Tags</label>
         <input type="text" name="tags" placeholder = "ENTER SOME TAGS SEPERATED BY COMMA (,)" value= "<?php if(isset($_POST['publish'])) { echo $post_tag; } ?>" class="form-control" >
     </div>
     <div class="form-group">
-        <label for="post_content">Post Content</label>
+        <label for="post_content">Experience Content</label>
         <textarea class="form-control" name="content"  id="" cols="30" rows="15" ><?php if(isset($_POST['publish'])) { echo $post_content; } ?></textarea>
     </div>
-<button type="submit" name="publish" class="btn btn-primary" value="Publish Post">Publish Post</button>
+<button type="submit" name="publish" class="btn btn-primary" value="Publish Post">Publish Experience</button>
 
 </form>
 
