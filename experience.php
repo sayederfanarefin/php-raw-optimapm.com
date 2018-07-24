@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-  <title>News | Optima</title>
+  <title>Experience | Optima</title>
 
   <!-- Google font -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
@@ -51,7 +51,7 @@
     <!-- header wrapper -->
     <div class="header-wrapper sm-padding bg-grey">
       <div class="container">
-        <h2>News</h2>
+        <h2>Experience</h2>
         
       </div>
     </div>
@@ -70,7 +70,7 @@
       <div class="row">
 
   <?php
-          $query = "SELECT * FROM posts WHERE status='published' ORDER BY updated_on DESC LIMIT 3";
+          $query = "SELECT * FROM experience WHERE status='published' ORDER BY updated_on DESC LIMIT 3";
           $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
           if (mysqli_num_rows($run_query) > 0) {
             while ($row = mysqli_fetch_assoc($run_query)) {
@@ -103,7 +103,7 @@
                     <a href="publicposts.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
                      <p><?php echo substr($post_content, 0, 100) . '.........'; ?></p>
 
-                     <a href="publicposts.php?post=<?php echo $post_id; ?>">Read more</a>
+                     <a href="publicexs.php?post=<?php echo $post_id; ?>">Read more</a>
                     
                   </div>
                 </div>
