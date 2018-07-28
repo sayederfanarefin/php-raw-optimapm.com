@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">
-                            Welcome to NEWS-BUZZ  
+                            Welcome 
                             <small><?php echo $_SESSION['firstname']; ?></small>
                         </h1>
 
@@ -20,15 +20,17 @@
                 </div>
                 
 <div class="row">
-                    
-                    <div class="col-md-6 col-lg-3">
-                        <div class="panel panel-red">
+                     <div class="col-md-8 col-lg-8">
+                        <div class="panel panel-green">
                             <div class="panel-heading">
                                 <div class="row">
-                                    <div class="col-xs-3">
+                                    <div class="col-xs-6">
                                         <i class="fa fa-file-text fa-5x"></i>
+                                         <div class="text-left huge">News</div>
                                     </div>
-                                    <div class="col-xs-9">
+                                    <div class="col-xs-6">
+
+
                                     <?php
 $query = "SELECT * FROM posts";
 $result = mysqli_query($conn, $query) or die(mysqli_error($conn));
@@ -36,29 +38,63 @@ $post_num = mysqli_num_rows($result);
 echo "<div class='text-right huge'>{$post_num}</div>";
 ?>
 
-                                        <div class="text-right">Posts</div>
+                                        <div class="text-right">News</div>
 
                                     </div>
                                 </div>
                             </div>
                             <a href="posts.php">
                                 <div class="panel-footer">
-                                    <span class="pull-left">View All Posts</span>
+                                    <span class="pull-left">View All News</span>
                                     <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
                                     <div class="clearfix"></div>
                                 </div>
                             </a>
                         </div>
                     </div>
+</div><div class="row">
+                    <div class="col-md-8 col-lg-8">
+                        <div class="panel panel-red">
+                            <div class="panel-heading">
+                                <div class="row">
+                                    <div class="col-xs-6">
+                                        <i class="fa fa-file-text fa-5x"></i>
+                                         <div class="text-left huge">Experience</div>
+                                    </div>
+                                    <div class="col-xs-6">
 
-                    <div class="col-md-6 col-lg-3">
+                                    <?php
+$query = "SELECT * FROM experience";
+$result = mysqli_query($conn, $query) or die(mysqli_error($conn));
+$post_num = mysqli_num_rows($result);
+echo "<div class='text-right huge'>{$post_num}</div>";
+?>
+
+                                        <div class="text-right">Experience</div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="posts.php">
+                                <div class="panel-footer">
+                                    <span class="pull-left">View All Experience</span>
+                                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+</div><div class="row">
+                    <div class="col-md-8 col-lg-8">
                         <div class="panel panel-yellow">
                             <div class="panel-heading">
                                 <div class="row">
-                                    <div class="col-xs-3">
-                                        <i class="fa fa-users fa-5x"></i>
+                                    <div class="col-xs-6">
+                                        <i class="fa fa-file-text fa-5x"></i>
+                                         <div class="text-left huge">Users</div>
                                     </div>
-                                    <div class="col-xs-9">
+                                    <div class="col-xs-6">
+
                                                                    <?php
 $query = "SELECT * FROM users";
 $result = mysqli_query($conn, $query) or die(mysqli_error($conn));

@@ -33,7 +33,7 @@ if (isset($_SESSION['firstname'])) {
     if (empty($image)) {
 echo "<script>alert('Attach an image');</script>";
     }
-    else if ($_FILES['image']['size'] <= 0 || $_FILES['image']['size'] > 1024000 )
+    else if ($_FILES['image']['size'] <= 0 || $_FILES['image']['size'] > 1024000000 )
     {
 echo "<script>alert('Image size is not proper');</script>";
     }

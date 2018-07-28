@@ -55,7 +55,7 @@
                         </ul>
 
 
-                        <li>
+                        <!-- <li>
                          <a href="javascript:;" data-toggle="collapse" data-target="#user"><i class="fa fa-fw fa-users"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="user" class="collapse">
                             <li>
@@ -65,7 +65,7 @@
                                 <a href="adduser.php">Add New User</a>
                             </li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li>
                         <a href="./profile.php?section=<?php echo $_SESSION['username']; ?>"><i class="fa fa-fw fa-user"></i> Profile</a>
                     </li>
