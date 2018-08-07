@@ -36,7 +36,7 @@
 						</li>
 
 
-						<li class="has-dropdown"><a href="man_service.php">Management Consultancy</a>
+						<li class="has-dropdown"><a href="man_service.php">Management Consulting</a>
 							<ul class="dropdown" style="background-color: grey;" id="custom-sub-menu-less-height">
 								<li><a href="man_service-businessstrategy.php">Business Strategy</a></li>
 

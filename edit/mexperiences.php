@@ -47,7 +47,7 @@
 
                  <?php
 
-$query = "SELECT * FROM experience ORDER BY id DESC";
+$query = "SELECT * FROM mexperience ORDER BY id DESC";
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0) {
 while ($row = mysqli_fetch_array($run_query)) {
@@ -94,7 +94,7 @@ else {
  <?php
     if (isset($_GET['del'])) {
         $post_del = mysqli_real_escape_string($conn, $_GET['del']);
-        $del_query = "DELETE FROM experience WHERE id='$post_del'";
+        $del_query = "DELETE FROM mexperience WHERE id='$post_del'";
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('post deleted successfully');
@@ -106,7 +106,7 @@ else {
         }
         if (isset($_GET['pub'])) {
         $post_pub = mysqli_real_escape_string($conn,$_GET['pub']);
-        $pub_query = "UPDATE experience SET status='published' WHERE id='$post_pub'";
+        $pub_query = "UPDATE mexperience SET status='published' WHERE id='$post_pub'";
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('Experience published successfully');
@@ -149,7 +149,7 @@ else if($_SESSION['role'] == 'admin') {
 
                  <?php
 $currentuser = $_SESSION['firstname'];
-$query = "SELECT * FROM experience WHERE author = '$currentuser' ORDER BY id DESC";
+$query = "SELECT * FROM mexperience WHERE author = '$currentuser' ORDER BY id DESC";
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0) {
 while ($row = mysqli_fetch_array($run_query)) {
@@ -196,7 +196,7 @@ else {
  <?php
     if (isset($_GET['del'])) {
         $post_del = mysqli_real_escape_string($conn, $_GET['del']);
-        $del_query = "DELETE FROM experience WHERE id='$post_del'";
+        $del_query = "DELETE FROM mexperience WHERE id='$post_del'";
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('experience deleted successfully');
@@ -208,7 +208,7 @@ else {
         }
         if (isset($_GET['pub'])) {
         $post_pub = mysqli_real_escape_string($conn,$_GET['pub']);
-        $pub_query = "UPDATE experience SET status='published' WHERE id='$post_pub'";
+        $pub_query = "UPDATE mexperience SET status='published' WHERE id='$post_pub'";
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('experience published successfully');
@@ -247,7 +247,7 @@ else {
                  <?php
                  $currentuser = $_SESSION['firstname'];
 
-$query = "SELECT * FROM experience WHERE author = '$currentuser' ORDER BY id DESC";
+$query = "SELECT * FROM mexperience WHERE author = '$currentuser' ORDER BY id DESC";
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0) {
 while ($row = mysqli_fetch_array($run_query)) {
@@ -288,7 +288,7 @@ else {
 <?php
     if (isset($_GET['del'])) {
         $post_del = mysqli_real_escape_string($conn , $_GET['del']);
-        $del_query = "DELETE FROM experience WHERE id='$post_del' AND author='$currentuser'";
+        $del_query = "DELETE FROM mexperience WHERE id='$post_del' AND author='$currentuser'";
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('experience deleted successfully');

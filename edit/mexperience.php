@@ -5,14 +5,14 @@ if (isset($_GET['post'])) {
 	$post = mysqli_real_escape_string($conn, $_GET['post']);  
 }
 else {
-    header('location:experience.php');
+    header('location:mexperience.php');
 }
 $currentuser = $_SESSION['firstname'];
 if ($_SESSION['role'] == 'superadmin') {
-$query = "SELECT * FROM experience WHERE id='$post'";
+$query = "SELECT * FROM mexperience WHERE id='$post'";
 }
 else {
-    $query = "SELECT * FROM experience WHERE id='$post' AND author = '$currentuser'" ;
+    $query = "SELECT * FROM mexperience WHERE id='$post' AND author = '$currentuser'" ;
 }
 $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
 if (mysqli_num_rows($run_query) > 0 ) {
