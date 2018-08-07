@@ -70,12 +70,27 @@
       <div class="row">
 
   <?php
+        $query = "";
+
+        $b ;
+
+        if (isset($_GET['a'])) {
+          $a = $_GET['a'];
+          $b = $a+3;
+          $query = "SELECT * FROM experience WHERE (status='published' AND (id BETWEEN $a AND $b)) ORDER BY updated_on DESC " ;
+          
+        }else{
           $query = "SELECT * FROM experience WHERE status='published' ORDER BY updated_on DESC LIMIT 3";
+        }
+
           $run_query = mysqli_query($conn, $query) or die(mysqli_error($conn));
           if (mysqli_num_rows($run_query) > 0) {
             while ($row = mysqli_fetch_assoc($run_query)) {
               $post_title = $row['title'];
               $post_id = $row['id'];
+
+              $b = $row['id'];
+
               $post_author = $row['author'];
               $post_date = $row['postdate'];
               $post_image =  "allpostpics/" . $row['image'];
@@ -100,7 +115,7 @@
                       <li><p><span class="glyphicon glyphicon-time"></span>Posted on <?php echo $post_date; ?></p></li>
 
                     </ul>
-                    <a href="publicposts.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
+                    <a href="publicexperiences.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
                      <p><?php echo substr($post_content, 0, 100) . '.........'; ?></p>
 
                      <a href="publicexs.php?post=<?php echo $post_id; ?>">Read more</a>
@@ -118,8 +133,8 @@
               </div>
  <hr>
                   <ul class="pager">
-                    <li class="previous"><a href="#"><span class="glyphicon glyphicon-arrow-left"></span> Older</a></li>
-                    <li class="next"><a href="#">Newer <span class="glyphicon glyphicon-arrow-right"></span></a></li>
+                    <li class="previous"><a href="experience.php?a=<?php echo $b; ?>"><span class="glyphicon glyphicon-arrow-left"></span> Older</a></li>
+                    <li class="next"><a href="">Newer <span class="glyphicon glyphicon-arrow-right"></span></a></li>
                   </ul>
 
             </div>

@@ -100,7 +100,7 @@
                       <li><p><span class="glyphicon glyphicon-time"></span>Posted on <?php echo $post_date; ?></p></li>
 
                     </ul>
-                    <a href="publicposts.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
+                    <a href="mpublicexperiences.php?post=<?php echo $post_id; ?>"><?php echo $post_title; ?></a>
                      <p><?php echo substr($post_content, 0, 100) . '.........'; ?></p>
 
                      <a href="publicexs.php?post=<?php echo $post_id; ?>">Read more</a>

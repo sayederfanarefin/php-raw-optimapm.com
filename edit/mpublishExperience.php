@@ -50,7 +50,7 @@ echo "<script>alert('Image size is not proper');</script>";
             $result = mysqli_query($conn , $query) or die(mysqli_error($conn));
             if (mysqli_affected_rows($conn) > 0) {
                 echo "<script> alert('Experience posted successfully.It will be published after admin approves it');
-                window.location.href='experiences.php';</script>";
+                window.location.href='mexperiences.php';</script>";
             }
             else {
                 "<script> alert('Error while posting..try again');</script>";

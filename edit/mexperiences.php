@@ -12,7 +12,7 @@
                     <div class="col-lg-12">
                         <h1 class="page-header">
                         <div class="col-xs-4">
-            <a href="publishExperience.php" class="btn btn-primary">Add New</a>
+            <a href="mpublishExperience.php" class="btn btn-primary">Add New</a>
             </div>
                             ALL EXPERIENCES
                         </h1>
@@ -79,7 +79,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 else {
     echo "<script>alert('Not any experience yet! Start Posting now');
-    window.location.href= 'publishExperience.php';</script>";
+    window.location.href= 'mpublishExperience.php';</script>";
 }
 ?>
 
@@ -110,7 +110,7 @@ else {
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('Experience published successfully');
-            window.location.href='experiences.php';</script>";
+            window.location.href='mexperiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
@@ -181,7 +181,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 else {
     echo "<script>alert('You have not posted any experience yet! Start Posting now');
-    window.location.href= 'publishExperience.php';</script>";
+    window.location.href= 'mpublishExperience.php';</script>";
 }
 ?>
 
@@ -200,7 +200,7 @@ else {
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('experience deleted successfully');
-            window.location.href='experiences.php';</script>";
+            window.location.href='mexperiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
@@ -212,7 +212,7 @@ else {
         $run_pub_query = mysqli_query($conn, $pub_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('experience published successfully');
-            window.location.href='experiences.php';</script>";
+            window.location.href='mexperiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
@@ -276,7 +276,7 @@ while ($row = mysqli_fetch_array($run_query)) {
 }
 else {
     echo "<script>alert('You have not posted any experiences yet! Start Posting now');
-    window.location.href= 'publishExperience.php';</script>";
+    window.location.href= 'mpublishExperience.php';</script>";
 }
 ?>
  </tbody>
@@ -292,7 +292,7 @@ else {
         $run_del_query = mysqli_query($conn, $del_query) or die (mysqli_error($conn));
         if (mysqli_affected_rows($conn) > 0) {
             echo "<script>alert('experience deleted successfully');
-            window.location.href='experiences.php';</script>";
+            window.location.href='mexperiences.php';</script>";
         }
         else {
          echo "<script>alert('error occured.try again!');</script>";   
