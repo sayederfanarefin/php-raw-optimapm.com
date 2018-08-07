@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-  <title>Engineering Experience | Optima</title>
+  <title>Experience | Optima</title>
 
   <!-- Google font -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
@@ -51,7 +51,7 @@
     <!-- header wrapper -->
     <div class="header-wrapper sm-padding bg-grey">
       <div class="container">
-        <h2>Engineering Experience</h2>
+        <h2>Experience</h2>
         
       </div>
     </div>

@@ -44,13 +44,24 @@
                             </li>
                         </ul>
 
-                        <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#ex"><i class="fa fa-fw fa-file-text"></i> Experience <i class="fa fa-fw fa-caret-down"></i></a>
+                        <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#ex"><i class="fa fa-fw fa-file-text"></i>Engineering Experience <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="ex" class="collapse">
                             <li>
-                                <a href="./experiences.php">View All Experiences</a>
+                                <a href="./experiences.php">View All Engineering Experiences</a>
                             </li>
                             <li>
-                                <a href="./publishExperience.php">Add New Experience</a>
+                                <a href="./publishExperience.php">Add New Engineering Experience</a>
+                            </li>
+                        </ul>
+
+
+                        <a href="javascript:;" class="dropdown-toggle" data-toggle="collapse" data-target="#mex"><i class="fa fa-fw fa-file-text"></i>Management Experience <i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="mex" class="collapse">
+                            <li>
+                                <a href="./mexperiences.php">View All Management Experiences</a>
+                            </li>
+                            <li>
+                                <a href="./mpublishExperience.php">Add New Management Experience</a>
                             </li>
                         </ul>
 
