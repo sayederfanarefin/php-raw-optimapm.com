@@ -158,8 +158,9 @@
 <!-- about us -->
 			<div class="section" style="background-color: #00305B;">
 
+
 				<!-- Container -->
-				<div class="container" style="padding-top: 10px;padding-bottom: 10px;padding-left: 20px;padding-right: 20px;">
+				<div class="container" style="padding-top: 90px;padding-bottom: 90px;padding-left: 20px;padding-right: 20px;">
 
 <div class="row">
 <div class="col-md-6 col-sm-6" style="border-right: 3px solid white; padding-top: 20px; padding-bottom: 20px;">
